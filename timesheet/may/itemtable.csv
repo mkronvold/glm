@@ -1,0 +1,15 @@
+service item,Item Name/Number,Expense Account
+Admin Time - Unbilled,10 Processing,4410 · Accounting
+Client Processing,10 Processing,4410 · Accounting
+Client Projects,05 Consult,4420 · Miscellaneous Income:4421 · Consulting
+Distributorship Processing,23 Dist Acct,5460 · Distributorship Processing Cost
+MKT - Networking,05 Consult,4420 · Miscellaneous Income:4421 · Consulting
+MKT - Prospecting,05 Consult,4420 · Miscellaneous Income:4421 · Consulting
+MKT - Sales Appointment,05 Consult,4420 · Miscellaneous Income:4421 · Consulting
+Payroll Services,04 PRCW,4417 · Payroll Services
+Payroll Taxes,03 QTax,4414 · Quarterly PR Tax Fees
+Tax - Entity,xTAXES:T1120 Tax Prep,4430 · Income Tax Preparation:4432 · Corp & Part Tax Fees
+Tax - Individual,xTAXES:T1040 Tax Prep,4430 · Income Tax Preparation:4431 · Client Tax Fees
+Paid Time Off,10 Processing,4410 · Accounting
+Holiday,10 Processing,4410 · Accounting
+Tax Time Off,10 Processing,4410 · Accounting

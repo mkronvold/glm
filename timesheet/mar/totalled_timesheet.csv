@@ -1,0 +1,1228 @@
+employee,item,customer,hours
+"Becky Olson","Admin Time - Unbilled Becky Olson","z Tribuzio, Vince & Mary",2.48
+"Becky Olson","Admin Time - Unbilled Becky Olson","GLM Admin Time",9.42
+"Becky Olson","Client Processing Becky Olson","Busse Automotive",2.83
+"Becky Olson","Client Processing Becky Olson","Eagle Instruments",0.25
+"Becky Olson","Tax - Entity Becky Olson","RS Fuels, Inc.",10.39
+"Becky Olson","Tax - Entity Becky Olson","Busse Automotive",7.72
+"Becky Olson","Tax - Entity Becky Olson","Eagle Instruments",4.33
+"Becky Olson","Tax - Entity Becky Olson","GLM Admin Time",8.31
+"Becky Olson","Tax - Entity Becky Olson","JF Service Inc.",0.5
+"Becky Olson","Tax - Entity Becky Olson","LaSalle Properties Management LLC",0.25
+"Becky Olson","Tax - Entity Becky Olson","Salem Center LLC",0.25
+"Becky Olson","Tax - Entity Becky Olson","Stone Ventures Inc",1.22
+"Beenish Ansari","Admin Time - Unbilled Beenish Ansari","Advanced Petroleum LLC",13.66
+"Beenish Ansari","Admin Time - Unbilled Beenish Ansari","GLM Admin Time",8
+"Beenish Ansari","Admin Time - Unbilled Beenish Ansari","Progressive Petroleum LLC",0.65
+"Beenish Ansari","Admin Time - Unbilled Beenish Ansari","Sparta Bros - Crystal Lake",2.12
+"Beenish Ansari","Client Processing Beenish Ansari","Custom Guy LLC",2.08
+"Beenish Ansari","Client Processing Beenish Ansari","Lyric Data Solutions",0.55
+"Beenish Ansari","Client Processing Beenish Ansari","Sparta Bros - Crystal Lake",4.8
+"Beenish Ansari","Distributorship Processing Beenish Ansari","RS Fuels, Inc.",8.55
+"Beenish Ansari","Distributorship Processing Beenish Ansari","Advanced Petroleum LLC",63.73
+"Beenish Ansari","Distributorship Processing Beenish Ansari","Progressive Petroleum LLC",1.5
+"Beenish Ansari","Distributorship Processing Beenish Ansari","United Petroleum Services Inc",36
+"Beenish Ansari","Paid Time Off Beenish Ansari","GLM Admin Time",26.25
+"Beenish Ansari","Tax - Individual Beenish Ansari","z Reader, Ronald A",0.37
+"Bill Gallagher","Admin Time - Unbilled Bill Gallagher","GLM Admin Time",66.56
+"Bill Gallagher","Admin Time - Unbilled Bill Gallagher","Hannel Oil Company Inc",0.32
+"Bill Gallagher","Client Processing Bill Gallagher","RS Fuels, Inc.",2.86
+"Bill Gallagher","Client Processing Bill Gallagher","z Dacanay, Gary",0.17
+"Bill Gallagher","Client Processing Bill Gallagher","Appliance Service Center",2.23
+"Bill Gallagher","Client Processing Bill Gallagher","Desired Glow",0.35
+"Bill Gallagher","Client Processing Bill Gallagher","EGM Automotive",2
+"Bill Gallagher","Client Processing Bill Gallagher","Effert Financial Solutions Inc",2.76
+"Bill Gallagher","Client Processing Bill Gallagher","GLM Admin Time",6.07
+"Bill Gallagher","Client Processing Bill Gallagher","Garcia Admin",3.52
+"Bill Gallagher","Client Processing Bill Gallagher","Greater Chicago I-55 Truck Stop",0.37
+"Bill Gallagher","Client Processing Bill Gallagher","Maid in the USA Ltd",0.83
+"Bill Gallagher","Client Processing Bill Gallagher","OHD Chicago Inc",0.2
+"Bill Gallagher","Client Processing Bill Gallagher","Ohare Real Estate LLC",0.79
+"Bill Gallagher","Client Processing Bill Gallagher","Party Gold Style:PGS Gold & Coin",0.33
+"Bill Gallagher","Client Processing Bill Gallagher","Rand Mfg",1.25
+"Bill Gallagher","Client Processing Bill Gallagher","Rein & Co Design",0.42
+"Bill Gallagher","Client Processing Bill Gallagher","Uncle Stu's Express LLC",0.23
+"Bill Gallagher","Client Processing Bill Gallagher","United Petroleum Services Inc",0.32
+"Bill Gallagher","Tax - Entity Bill Gallagher","Clinger Trucking, Inc.",0.33
+"Bill Gallagher","Tax - Entity Bill Gallagher","Gorman & Gorman Ent, Inc.",0.65
+"Bill Gallagher","Tax - Entity Bill Gallagher","R Midwest, Inc.",0.85
+"Bill Gallagher","Tax - Entity Bill Gallagher","RS Fuels, Inc.",2.2
+"Bill Gallagher","Tax - Entity Bill Gallagher","Sullivan Tool and Repair, Inc",0.97
+"Bill Gallagher","Tax - Entity Bill Gallagher","z Barosso, Gregory & Lina:Gregory & Lina Barosso",0.65
+"Bill Gallagher","Tax - Entity Bill Gallagher","z Farag, Steven:SCF Group Inc",0.6
+"Bill Gallagher","Tax - Entity Bill Gallagher","z Gorman, Glen & Nancy",0.88
+"Bill Gallagher","Tax - Entity Bill Gallagher","z Isaacson, Evin",0.52
+"Bill Gallagher","Tax - Entity Bill Gallagher","z Reader, Ronald Jr & Tracy",0.4
+"Bill Gallagher","Tax - Entity Bill Gallagher","711 Management LLC",1.07
+"Bill Gallagher","Tax - Entity Bill Gallagher","Bamboo Rewards LLC",3.65
+"Bill Gallagher","Tax - Entity Bill Gallagher","Buff & Chic Recovery Spa PLLC",1.43
+"Bill Gallagher","Tax - Entity Bill Gallagher","CK United LLC",5.38
+"Bill Gallagher","Tax - Entity Bill Gallagher","Clavey Auto Service",1.07
+"Bill Gallagher","Tax - Entity Bill Gallagher","Collaborative Counselling Services",3.42
+"Bill Gallagher","Tax - Entity Bill Gallagher","DHN Enterprises Ltd",0.27
+"Bill Gallagher","Tax - Entity Bill Gallagher","Desired Glow",1.53
+"Bill Gallagher","Tax - Entity Bill Gallagher","Divas N Drama LLC",2.8
+"Bill Gallagher","Tax - Entity Bill Gallagher","Effert Financial Solutions Inc",2.75
+"Bill Gallagher","Tax - Entity Bill Gallagher","GLM Admin Time",2.15
+"Bill Gallagher","Tax - Entity Bill Gallagher","Glenview RE LLC",0.67
+"Bill Gallagher","Tax - Entity Bill Gallagher","Glenview Retail LLC",0.28
+"Bill Gallagher","Tax - Entity Bill Gallagher","Hannel Oil Company Inc",1.85
+"Bill Gallagher","Tax - Entity Bill Gallagher","Hoffman Estates Real Estate LLC",0.67
+"Bill Gallagher","Tax - Entity Bill Gallagher","Industrial Eye LLc",0.88
+"Bill Gallagher","Tax - Entity Bill Gallagher","Investment Alliance LLC",1.02
+"Bill Gallagher","Tax - Entity Bill Gallagher","MRJ Real Estate LLC",1.47
+"Bill Gallagher","Tax - Entity Bill Gallagher","Maid in the USA Ltd",1.94
+"Bill Gallagher","Tax - Entity Bill Gallagher","Moby Deck",0.6
+"Bill Gallagher","Tax - Entity Bill Gallagher","Nettelhorst Images Inc",0.33
+"Bill Gallagher","Tax - Entity Bill Gallagher","Noor Real Estate LLC",1.07
+"Bill Gallagher","Tax - Entity Bill Gallagher","Orchards at O'Hare DesPlaines",0.38
+"Bill Gallagher","Tax - Entity Bill Gallagher","Papo's Express Service Inc",0.63
+"Bill Gallagher","Tax - Entity Bill Gallagher","Papo's Master Inc",2.73
+"Bill Gallagher","Tax - Entity Bill Gallagher","Papo's RE Holdings LLC",2.49
+"Bill Gallagher","Tax - Entity Bill Gallagher","Paragon Flowers",2.39
+"Bill Gallagher","Tax - Entity Bill Gallagher","Proceed Innovative",1.73
+"Bill Gallagher","Tax - Entity Bill Gallagher","Progressive Petroleum LLC",0.98
+"Bill Gallagher","Tax - Entity Bill Gallagher","RS Wisconsin Inc.",0.73
+"Bill Gallagher","Tax - Entity Bill Gallagher","SE Cluster One",1.47
+"Bill Gallagher","Tax - Entity Bill Gallagher","Something's Cooking Ltd",0.28
+"Bill Gallagher","Tax - Entity Bill Gallagher","Sonderegger Corporation",3.52
+"Bill Gallagher","Tax - Entity Bill Gallagher","Stone Enterprises Round Lake LLC",0.53
+"Bill Gallagher","Tax - Entity Bill Gallagher","Stone Hoffman LLC",0.82
+"Bill Gallagher","Tax - Entity Bill Gallagher","Stone Ventures Inc",1.22
+"Bill Gallagher","Tax - Entity Bill Gallagher","Stone Ventures Round Lake",0.72
+"Bill Gallagher","Tax - Entity Bill Gallagher","Trevor RE LLC",0.9
+"Bill Gallagher","Tax - Entity Bill Gallagher","Trevor Retail LLC",0.5
+"Bill Gallagher","Tax - Entity Bill Gallagher","Twenty 123 Inc",0.35
+"Bill Gallagher","Tax - Entity Bill Gallagher","United Petroleum Properties LLC",0.57
+"Bill Gallagher","Tax - Entity Bill Gallagher","United Petroleum Services Inc",3.46
+"Bill Gallagher","Tax - Individual Bill Gallagher","Clinger Trucking, Inc.",0.13
+"Bill Gallagher","Tax - Individual Bill Gallagher","Gorman & Gorman Ent, Inc.",0.87
+"Bill Gallagher","Tax - Individual Bill Gallagher","Phillip S. Tarallo, PC",0.25
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Appelman, Joel & Sherry",0.58
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Barnes, Maureen",1.8
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Barosso, Gregory & Lina:Gregory & Lina Barosso",2.03
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Burg, David",0.5
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Buss, Ed & Pauline",1.42
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Caldwell, Kathleen",1.12
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Castans, Ed & Shelly",0.58
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Cho, Ike & June",0.27
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Coco, Richard & Alana",1.12
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Coles, Dan & Ann",1.22
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Copeland, Tim",0.28
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Coppola, Frank & Julie",0.53
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Curry, Latyna",0.17
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Dacanay, Gary",0.65
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Danikowski, David & Regina",0.87
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Daray, Dave & Darlene",0.3
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Dupuis, David",0.49
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Frederick, Douglas S & Pamela L.",1.12
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Gajewski, Alexis",0.2
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Gajewski, Mark & Charlotte",0.76
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Gandhi, Ankit & Khushabu",0.18
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Gandhi, Ashok & Rashmi",1.45
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Gianneschi, Kristine",1.34
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Granberg, Jacquiline",0.27
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Hameed, Roma",1.5
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Hoch, Russell & Tracy",0.7
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Hoke, Diana",3.07
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Hoss, Adam & Natalie",0.8
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Ilukhin, Alexander",0.17
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Ilukhin, Bogumila",0.17
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Ilukhin, Emma",0.6
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Jones, Adam & Deanna",0.99
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Kaiser, Daniel & Frances",0.48
+"Bill Gallagher","Tax - Individual Bill Gallagher","z King, Gregory",0.63
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Kirby, Michael",0.22
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Lyman, Kayla",0.18
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Martin, Lois C",0.83
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Myrent, Mark & Karen",0.35
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Nicolini, Daniel & Loretta",0.25
+"Bill Gallagher","Tax - Individual Bill Gallagher","z O'Donnell, Joanna",0.65
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Panayotov, Alexander",0.56
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Panayotov, Patrick",1.62
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Pieri, Frances",0.72
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Pizano, Ruben & Azucena",1.27
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Prestia, Gino",1.82
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Prette, Debra",1.87
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Reader, Ronald A",0.77
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Rothschild, Joel & Diane",0.5
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Shefcik, Barb",0.5
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Spike, Robert W",0.82
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Stan, Marin & Rodica",0.53
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Sullivan, Alex & Allison",0.37
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Sullivan, Daniel & Camille .",0.98
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Tartol, Randy & Mary",1.6
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Walentowski, Carol",0.45
+"Bill Gallagher","Tax - Individual Bill Gallagher","z White, Dave & Rose",1.25
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Zelm, Robert & Michaeli",0.68
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Zinn, Daniel R",0.5
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Zinn, David & Jaime",0.65
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Zinn, Greg",1
+"Bill Gallagher","Tax - Individual Bill Gallagher","AVI Foods Inc",0.4
+"Bill Gallagher","Tax - Individual Bill Gallagher","CET Commercial Dvlpmnt",0.82
+"Bill Gallagher","Tax - Individual Bill Gallagher","COPS Testing Service Inc.",0.37
+"Bill Gallagher","Tax - Individual Bill Gallagher","EGM Automotive",1.43
+"Bill Gallagher","Tax - Individual Bill Gallagher","GLM Admin Time",6.22
+"Bill Gallagher","Tax - Individual Bill Gallagher","Garcia Admin",2.5
+"Bill Gallagher","Tax - Individual Bill Gallagher","JE Enterprise LLC",2
+"Bill Gallagher","Tax - Individual Bill Gallagher","Orchards at O'Hare DesPlaines",0
+"Bill Gallagher","Tax - Individual Bill Gallagher","Rand Mfg",5.07
+"Bill Gallagher","Tax - Individual Bill Gallagher","Stambolic RE LLC",0.68
+"Bill Gallagher","Tax - Individual Bill Gallagher","Stone Ventures Inc",0.8
+"Bill Gallagher","Tax - Individual Bill Gallagher","z Verba Holdings LLC",3.85
+"Byron Rossin","Admin Time - Unbilled Byron Rossin","GLM Admin Time",101
+"Byron Rossin","Admin Time - Unbilled Byron Rossin","RB- Admin",2
+"Byron Rossin","Admin Time - Unbilled Byron Rossin","RB- Alam Oil Co",1
+"Byron Rossin","Admin Time - Unbilled Byron Rossin","RB- Everlast Oil Inc",1
+"Byron Rossin","Admin Time - Unbilled Byron Rossin","Stone Enterprises Round Lake LLC",0.25
+"Byron Rossin","Client Processing Byron Rossin","R Midwest, Inc.",0.75
+"Byron Rossin","Client Processing Byron Rossin","RB- RSB Enterprises, Inc",1.85
+"Byron Rossin","Client Processing Byron Rossin","RS Fuels, Inc.",9.29
+"Byron Rossin","Client Processing Byron Rossin","7462 S Cicero Corp",0.25
+"Byron Rossin","Client Processing Byron Rossin","Bamboo Rewards LLC",0.45
+"Byron Rossin","Client Processing Byron Rossin","Garcia Admin",3.78
+"Byron Rossin","Client Processing Byron Rossin","Hoffman Estates Real Estate LLC",0.15
+"Byron Rossin","Client Processing Byron Rossin","Investment Alliance LLC",0.18
+"Byron Rossin","Client Processing Byron Rossin","Naper Hill Inc.",0.25
+"Byron Rossin","Client Processing Byron Rossin","Panda Pizza",0.25
+"Byron Rossin","Client Processing Byron Rossin","Progressive Petroleum LLC",0.32
+"Byron Rossin","Client Processing Byron Rossin","Quick Serve Inc",1.08
+"Byron Rossin","Client Processing Byron Rossin","R&R Car Wash LLC",0.25
+"Byron Rossin","Client Processing Byron Rossin","RB- Admin",2.77
+"Byron Rossin","Client Processing Byron Rossin","RB- Alam Oil Co",0.61
+"Byron Rossin","Client Processing Byron Rossin","RB- BKB Oil Co",1.26
+"Byron Rossin","Client Processing Byron Rossin","RB- BPS Oil Co",1.96
+"Byron Rossin","Client Processing Byron Rossin","RB- Everlast Oil Inc",0.51
+"Byron Rossin","Client Processing Byron Rossin","RB- Pocahontas",1.68
+"Byron Rossin","Client Processing Byron Rossin","RBO LLC",0.25
+"Byron Rossin","Client Processing Byron Rossin","RG-Admin",0.17
+"Byron Rossin","Client Processing Byron Rossin","RG1-Deep Entertainment",0.82
+"Byron Rossin","Client Processing Byron Rossin","RG2-King Quest",0.32
+"Byron Rossin","Client Processing Byron Rossin","RG3-BPS Wine Bar",0.5
+"Byron Rossin","Client Processing Byron Rossin","RG4-Elite Entertainment 2",0.38
+"Byron Rossin","Client Processing Byron Rossin","RS Wisconsin Inc.",0.5
+"Byron Rossin","Client Processing Byron Rossin","S & G Hinsdale LLC",0.57
+"Byron Rossin","Client Processing Byron Rossin","SE Cluster One",0.28
+"Byron Rossin","Client Processing Byron Rossin","Stambolic RE LLC",0.25
+"Byron Rossin","Client Processing Byron Rossin","Stone Ventures Inc",0.75
+"Byron Rossin","Client Processing Byron Rossin","Stone Ventures Round Lake",0.75
+"Byron Rossin","Client Processing Byron Rossin","United Fuel Wholesale LLC",1.07
+"Byron Rossin","Client Processing Byron Rossin","United Petroleum Services Inc",0.25
+"Byron Rossin","Client Projects Byron Rossin","DOM Properties, LLC",0.17
+"Byron Rossin","Client Projects Byron Rossin","Driven Service Professionals, Inc.",0.25
+"Byron Rossin","Client Projects Byron Rossin","R Midwest, Inc.",1.25
+"Byron Rossin","Client Projects Byron Rossin","RS Fuels, Inc.",0.5
+"Byron Rossin","Client Projects Byron Rossin","1600 North Elston LLC",0.42
+"Byron Rossin","Client Projects Byron Rossin","Ashland & VanBuren Inc",0.25
+"Byron Rossin","Client Projects Byron Rossin","Bamboo Rewards LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Classic Car Wash of Naperville LLC",0.58
+"Byron Rossin","Client Projects Byron Rossin","DOM Enterprises Inc",0.17
+"Byron Rossin","Client Projects Byron Rossin","Great Plains Petroleum LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Hoffman Estates Real Estate LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Investment Alliance LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Irving & Clark Citgo Inc",0.17
+"Byron Rossin","Client Projects Byron Rossin","Irving & Clark Property LLC",0.17
+"Byron Rossin","Client Projects Byron Rossin","Kenosha Condo LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Lockport Gas & Food LLC",0.75
+"Byron Rossin","Client Projects Byron Rossin","Naper Meadows RE LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","North & Elston Inc",0.17
+"Byron Rossin","Client Projects Byron Rossin","Papo's 2 LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Papo's Express",0.75
+"Byron Rossin","Client Projects Byron Rossin","Papo's Express #2 Inc",0.5
+"Byron Rossin","Client Projects Byron Rossin","Pizzano LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","R&R Car Wash LLC",1.58
+"Byron Rossin","Client Projects Byron Rossin","RG1-Deep Entertainment",0.25
+"Byron Rossin","Client Projects Byron Rossin","RG2-King Quest",0.25
+"Byron Rossin","Client Projects Byron Rossin","RG3-BPS Wine Bar",0.25
+"Byron Rossin","Client Projects Byron Rossin","RG4-Elite Entertainment 2",0.25
+"Byron Rossin","Client Projects Byron Rossin","RS Wisconsin Inc.",0.25
+"Byron Rossin","Client Projects Byron Rossin","Riteline Development LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Riteline Properties LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Stambolic Holdings LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","Stambolic RE LLC",0.75
+"Byron Rossin","Client Projects Byron Rossin","Stone Ventures Round Lake",0.25
+"Byron Rossin","Client Projects Byron Rossin","The Perspektive LLC",0.25
+"Byron Rossin","Client Projects Byron Rossin","United Petroleum Services Inc",0.5
+"Byron Rossin","Distributorship Processing Byron Rossin","RS Fuels, Inc.",4.25
+"Byron Rossin","Distributorship Processing Byron Rossin","GLM Admin Time",3.75
+"Byron Rossin","Distributorship Processing Byron Rossin","JE Enterprise LLC",0.27
+"Byron Rossin","Paid Time Off Byron Rossin","GLM Admin Time",8
+"Byron Rossin","Tax - Entity Byron Rossin","Classic Car Wash of Naperville LLC",0.25
+"Byron Rossin","Tax - Entity Byron Rossin","Meadows Group Management Inc",0.25
+"Byron Rossin","Tax - Individual Byron Rossin","z Ahmed, Junaid",1.5
+"Callie McDearmon","Admin Time - Unbilled Callie McDearmon","GLM Admin Time",1.1
+"Callie McDearmon","Client Processing Callie McDearmon","7462 S Cicero Corp",1
+"Callie McDearmon","Client Processing Callie McDearmon","Cycle Locators Inc",1.45
+"Callie McDearmon","Client Processing Callie McDearmon","Evanston Organics",2.92
+"Callie McDearmon","Client Processing Callie McDearmon","Mechanical Equipment Inc",4.71
+"Callie McDearmon","Client Processing Callie McDearmon","PK Supplies",16.1
+"Callie McDearmon","Client Processing Callie McDearmon","Panda Pizza",0.32
+"Callie McDearmon","Payroll Services Callie McDearmon","Evanston Organics",0.78
+"Callie McDearmon","Payroll Services Callie McDearmon","PSI Systems of North America",0.64
+"Callie McDearmon","Payroll Taxes Callie McDearmon","Rubino Engineering",0.8
+"Christopher Kronvold","Admin Time - Unbilled Christopher Kronvold","GLM Admin Time",3.78
+"Christopher Kronvold","Admin Time - Unbilled Christopher Kronvold","Great Plains Petroleum LLC",1.68
+"Christopher Kronvold","Client Processing Christopher Kronvold","Efficiency Petroleum Service Inc",1.42
+"Christopher Kronvold","Client Processing Christopher Kronvold","Party Gold Style:PGS Gold & Coin",36.91
+"Christopher Kronvold","Distributorship Processing Christopher Kronvold","RS Fuels, Inc.",3.07
+"Christopher Kronvold","Distributorship Processing Christopher Kronvold","z Copeland, Tim",0.67
+"Christopher Kronvold","Distributorship Processing Christopher Kronvold","Great Plains Petroleum LLC",5.7
+"Christopher Kronvold","Distributorship Processing Christopher Kronvold","United Petroleum Services Inc",44.69
+"Christopher Kronvold","Payroll Services Christopher Kronvold","Party Gold Style:PGS Gold & Coin",4.53
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Appelman, Joel & Sherry",0.52
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Cho, Ike & June",0.33
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Coco, Richard & Alana",0.83
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Curry, Latyna",0.27
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Gianneschi, Kristine",0.3
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Ilukhin, Alexander",0.28
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Ilukhin, Bogumila",0.2
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Ilukhin, Emma",0.33
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Kaiser, Daniel & Frances",0.35
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z King, Gregory",0.93
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Kirby, Michael",0.07
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Nicolini, Daniel & Loretta",0.33
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Pieri, Frances",0.57
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Spike, Robert W",0.25
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z Walentowski, Carol",0.4
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","z White, Dave & Rose",0.5
+"Christopher Kronvold","Tax - Individual Christopher Kronvold","GLM Admin Time",0.6
+"Diane Kalish","Admin Time - Unbilled Diane Kalish","GLM Admin Time",106.81
+"Diane Kalish","Admin Time - Unbilled Diane Kalish","Galla Consulting Services Inc",2.05
+"Diane Kalish","Client Processing Diane Kalish","We Wash Holdings LLC:We Wash Car Care Center, Inc.",1.17
+"Diane Kalish","Client Processing Diane Kalish","We Wash Holdings LLC:We Wash Car Wash, Inc. - Halsted",1.65
+"Diane Kalish","Client Processing Diane Kalish","Sketech Inc",0.25
+"Diane Kalish","Client Projects Diane Kalish","Trailmaster Inc",0.62
+"Diane Kalish","MKT - Sales Appointment Diane Kalish","GLM Admin Time",3.28
+"Diane Kalish","Payroll Taxes Diane Kalish","Timoca, Inc",0.65
+"Diane Kalish","Payroll Taxes Diane Kalish","ABB Enterprises",0.28
+"Diane Kalish","Payroll Taxes Diane Kalish","Fortitude Marketing & Sales LLC:Fortitude Marketing & Sales LLC",0.78
+"Diane Kalish","Tax - Entity Diane Kalish","JB Graphics, Inc.",0.12
+"Diane Kalish","Tax - Entity Diane Kalish","Law Offices of Richard S Bass, LTD",1.8
+"Diane Kalish","Tax - Entity Diane Kalish","Timoca, Inc",4.98
+"Diane Kalish","Tax - Entity Diane Kalish","z Gravenstine, Thomas & Elizabeth",0.72
+"Diane Kalish","Tax - Entity Diane Kalish","z Koza, Mark:Mark Koza Landscapes Inc",1.2
+"Diane Kalish","Tax - Entity Diane Kalish","z Noonan, John & Patricia",0.12
+"Diane Kalish","Tax - Entity Diane Kalish","z Schaefer, Estate of Edward",0.84
+"Diane Kalish","Tax - Entity Diane Kalish","A Shear Delight",0.52
+"Diane Kalish","Tax - Entity Diane Kalish","ABB Enterprises",3.55
+"Diane Kalish","Tax - Entity Diane Kalish","GLM Admin Time",8.29
+"Diane Kalish","Tax - Entity Diane Kalish","Galla Consulting Services Inc",0.08
+"Diane Kalish","Tax - Entity Diane Kalish","Jill R Stevens LLC",6.07
+"Diane Kalish","Tax - Entity Diane Kalish","Matt's Mobile Meats Inc",4.56
+"Diane Kalish","Tax - Entity Diane Kalish","Sketech Inc",0.25
+"Diane Kalish","Tax - Entity Diane Kalish","The Shepherd's Learning Academy:The Shepherd's Learning Academy",0.55
+"Diane Kalish","Tax - Entity Diane Kalish","Tug Enterprises Inc",3.1
+"Diane Kalish","Tax - Entity Diane Kalish","We Wash Holdings LLC:We Wash Holdings LLC",0.15
+"Diane Kalish","Tax - Entity Diane Kalish","XtraMile Running",1.35
+"Diane Kalish","Tax - Individual Diane Kalish","Law Offices of Richard S Bass, LTD",1.12
+"Diane Kalish","Tax - Individual Diane Kalish","Timoca, Inc",1.1
+"Diane Kalish","Tax - Individual Diane Kalish","z Babczak, David & Monica",5.38
+"Diane Kalish","Tax - Individual Diane Kalish","z Bailey, Dennis & Ilona",5.78
+"Diane Kalish","Tax - Individual Diane Kalish","z Banna, Daniel & Anna:z Banna, Daniel & Anna",0.48
+"Diane Kalish","Tax - Individual Diane Kalish","z Bass, Richard S & Kristine A:z Bass, Richard & Kristine",1.57
+"Diane Kalish","Tax - Individual Diane Kalish","z Blair, Daniel & Shiela",2.78
+"Diane Kalish","Tax - Individual Diane Kalish","z Brent, Jane",0.1
+"Diane Kalish","Tax - Individual Diane Kalish","z Brown, Gary & Denise",0.27
+"Diane Kalish","Tax - Individual Diane Kalish","z Burr, Cheryl:z Burr, Cheryl",0.58
+"Diane Kalish","Tax - Individual Diane Kalish","z Decarlo, Christopher & Tiffany",2.03
+"Diane Kalish","Tax - Individual Diane Kalish","z Decker, Zack & Jamie",0.77
+"Diane Kalish","Tax - Individual Diane Kalish","z Dittmer, Gael",0.52
+"Diane Kalish","Tax - Individual Diane Kalish","z Dohler, Joann",0.88
+"Diane Kalish","Tax - Individual Diane Kalish","z Dowling, William & Karen",0.4
+"Diane Kalish","Tax - Individual Diane Kalish","z Foris, Jeffrey & Judith",1.15
+"Diane Kalish","Tax - Individual Diane Kalish","z Fritz, Andrew & Michelle",0.49
+"Diane Kalish","Tax - Individual Diane Kalish","z Galanti, Philip & Nancy",1.75
+"Diane Kalish","Tax - Individual Diane Kalish","z Gavin, Jeff & Lynn Davies-Gavin",1.42
+"Diane Kalish","Tax - Individual Diane Kalish","z Gerace, Dan",2.42
+"Diane Kalish","Tax - Individual Diane Kalish","z Gnoyke, Irene",0.15
+"Diane Kalish","Tax - Individual Diane Kalish","z Grosso, Paul & Mindy",0.22
+"Diane Kalish","Tax - Individual Diane Kalish","z Hoberstorfer, Joseph & Thuy",0.33
+"Diane Kalish","Tax - Individual Diane Kalish","z Jackson, Kevin & Jaclyn",0.53
+"Diane Kalish","Tax - Individual Diane Kalish","z Julitz Moger, Susan",0.18
+"Diane Kalish","Tax - Individual Diane Kalish","z Jurasek, Robert",0.47
+"Diane Kalish","Tax - Individual Diane Kalish","z Kang, Ashley",1.55
+"Diane Kalish","Tax - Individual Diane Kalish","z Kee, Jeff & Theresa:z Kee, Alyson",0.38
+"Diane Kalish","Tax - Individual Diane Kalish","z Kinney, David:David Kinney GST",0.38
+"Diane Kalish","Tax - Individual Diane Kalish","z Kinney, David:z Kinney, David",4.65
+"Diane Kalish","Tax - Individual Diane Kalish","z Kosek, Joseph & America",0.62
+"Diane Kalish","Tax - Individual Diane Kalish","z Kostiuk, Theodore & Stacy",0.45
+"Diane Kalish","Tax - Individual Diane Kalish","z Kotara, Daniel & Christine",0.33
+"Diane Kalish","Tax - Individual Diane Kalish","z Koza, Mark:Mark Koza Landscapes Inc",5.95
+"Diane Kalish","Tax - Individual Diane Kalish","z Koza, Mark:z Koza, Mark",1.23
+"Diane Kalish","Tax - Individual Diane Kalish","z Lagattuta, Joseph & Barbara",1.42
+"Diane Kalish","Tax - Individual Diane Kalish","z Laubenstein, Ruth",2.16
+"Diane Kalish","Tax - Individual Diane Kalish","z Leonteos, Peter & Kimberly",0.77
+"Diane Kalish","Tax - Individual Diane Kalish","z Lindsey, Eva",0.85
+"Diane Kalish","Tax - Individual Diane Kalish","z Lukac, Sandra",4.45
+"Diane Kalish","Tax - Individual Diane Kalish","z Marciniak, Michael & Margaret",0.53
+"Diane Kalish","Tax - Individual Diane Kalish","z McGinley, Joseph & Brenda",1.67
+"Diane Kalish","Tax - Individual Diane Kalish","z Noonan, John & Patricia",0.7
+"Diane Kalish","Tax - Individual Diane Kalish","z Roos, Rick & Rosanna:z Roos, Rick & Rosanna",1.42
+"Diane Kalish","Tax - Individual Diane Kalish","z Schielke, Randolph & Colleen",0.28
+"Diane Kalish","Tax - Individual Diane Kalish","z Spiegel, Susan",0.18
+"Diane Kalish","Tax - Individual Diane Kalish","z Stanaitis, Mike and LaDonna",0.02
+"Diane Kalish","Tax - Individual Diane Kalish","z Tente, Arthur & Mary Ellen",1.55
+"Diane Kalish","Tax - Individual Diane Kalish","z Thompson, Jonathan B. & Jeanne M.",0.63
+"Diane Kalish","Tax - Individual Diane Kalish","z Vacek, Michael & Toni",0.1
+"Diane Kalish","Tax - Individual Diane Kalish","z Warzecha, Francis",7.58
+"Diane Kalish","Tax - Individual Diane Kalish","z Wautlet, Bruce & Karen",0.32
+"Diane Kalish","Tax - Individual Diane Kalish","z Weber, Frank & Elisabeth",1.7
+"Diane Kalish","Tax - Individual Diane Kalish","z Whiteley, Connie",0.78
+"Diane Kalish","Tax - Individual Diane Kalish","z Woods, Ricky & Connie",0.83
+"Diane Kalish","Tax - Individual Diane Kalish","BGR8 Leadership LLC",0.18
+"Diane Kalish","Tax - Individual Diane Kalish","Elk Grove Jwlr & Loan Inc",4
+"Diane Kalish","Tax - Individual Diane Kalish","Jill R Stevens LLC",1.96
+"Diane Kalish","Tax - Individual Diane Kalish","Simply Portraits Chicago",2.4
+"Diane Kalish","Tax - Individual Diane Kalish","Tug Enterprises Inc",1.91
+"Diane Kalish","Tax - Individual Diane Kalish","Weinberg Investments LLC",0.15
+"Erin Gallagher","Distributorship Processing Erin Gallagher","United Petroleum Services Inc",25.49
+"Erin Gallagher","Paid Time Off Erin Gallagher","GLM Admin Time",2
+"Fatima Khan","Client Processing Fatima Khan","Sullivan Tool and Repair, Inc",5.9
+"Fatima Khan","Client Processing Fatima Khan","A-1 Jewelry & Pawn Inc",0.8
+"Fatima Khan","Client Processing Fatima Khan","Best Computer System Inc.:Best Computer System Inc",1.38
+"Fatima Khan","Client Processing Fatima Khan","Buffalo Grove Jewelry & Loan Inc",1.23
+"Fatima Khan","Client Processing Fatima Khan","CSC Express Paint Inc",9.17
+"Fatima Khan","Client Processing Fatima Khan","Cruises International Inc",2.88
+"Fatima Khan","Client Processing Fatima Khan","Elk Grove Jwlr &Loan II Inc",0.95
+"Fatima Khan","Client Processing Fatima Khan","GLM Admin Time",3
+"Fatima Khan","Client Processing Fatima Khan","Island Lake Jewelry & Loan Inc",0.25
+"Fatima Khan","Client Processing Fatima Khan","JP & ED Automotive Inc.",9.74
+"Fatima Khan","Client Processing Fatima Khan","Just a Taste Confections Inc",0.52
+"Fatima Khan","Client Processing Fatima Khan","Lobo Pallet Service Inc",0.46
+"Fatima Khan","Client Processing Fatima Khan","OHD Chicago Inc",0.28
+"Fatima Khan","Client Processing Fatima Khan","Orchards at O'Hare DesPlaines",13.46
+"Fatima Khan","Client Processing Fatima Khan","RB- BKB Oil Co",2.08
+"Fatima Khan","Client Processing Fatima Khan","RB- Pocahontas",3.14
+"Fatima Khan","Client Projects Fatima Khan","West Dundee Citgo",1.2
+"Fatima Khan","Distributorship Processing Fatima Khan","RS Fuels, Inc.",11.7
+"Fatima Khan","Distributorship Processing Fatima Khan","Orchards at O'Hare DesPlaines",0.07
+"Fatima Khan","Distributorship Processing Fatima Khan","Progressive Petroleum LLC",4.97
+"Fatima Khan","Distributorship Processing Fatima Khan","United Petroleum Services Inc",48.48
+"Fatima Khan","Paid Time Off Fatima Khan","GLM Admin Time",12.42
+"Fatima Khan","Tax - Entity Fatima Khan","Best Computer System Inc.:Best Computer System Inc",1.46
+"Fatima Khan","Tax - Entity Fatima Khan","CSC Express Paint Inc",1.25
+"Fatima Khan","Tax - Entity Fatima Khan","OHD Chicago Inc",0.03
+"Fatima Khan","Tax - Entity Fatima Khan","RBO LLC",5.58
+"Fatima Khan","Tax - Individual Fatima Khan","Sullivan Tool and Repair, Inc",0.03
+"Fatima Khan","Tax - Individual Fatima Khan","z Farag, Steven:z Farag, Steven",1.77
+"Fatima Khan","Tax - Individual Fatima Khan","z Khan, Ali & Zubeda Begum",2.97
+"Fatima Khan","Tax - Individual Fatima Khan","z Lyman, Kayla",2.23
+"Fatima Khan","Tax - Individual Fatima Khan","z May, Kevin",1.07
+"Fatima Khan","Tax - Individual Fatima Khan","z McKenna, Brendan & Danielle",3.14
+"Fatima Khan","Tax - Individual Fatima Khan","z Messinger, Richard & Jamie",2.95
+"Fatima Khan","Tax - Individual Fatima Khan","z Spendley, James & Samuel Brasseur",1.1
+"Fatima Khan","Tax - Individual Fatima Khan","z Zelm, Robert R",1.89
+"Fatima Khan","Tax - Individual Fatima Khan","GLM Admin Time",4.5
+"Fatima Khan","Tax - Individual Fatima Khan","LSM Interiors",3.57
+"Fatima Khan","Tax - Individual Fatima Khan","Mark A Byrd PC",0.91
+"Fatima Khan","Tax - Individual Fatima Khan","Robinette Plumbing",1.4
+"Fatima Khan","Tax - Individual Fatima Khan","z Briggs Matthew",0.07
+"Greg Galla","Admin Time - Unbilled Greg Galla","GLM Admin Time",7.71
+"Greg Galla","Client Projects Greg Galla","Best Computer System Inc.:Best Computer System Inc",0.67
+"Greg Galla","Tax - Entity Greg Galla","Law Offices of Richard S Bass, LTD",1.88
+"Greg Galla","Tax - Entity Greg Galla","z Gravenstine, Thomas & Elizabeth",0.68
+"Greg Galla","Tax - Individual Greg Galla","Midwest Tech Svcs, Inc.:z Ardelean, George & Laura",2.3
+"Greg Galla","Tax - Individual Greg Galla","z Bass, Richard S & Kristine A:z Bass, Richard & Kristine",1.23
+"Greg Galla","Tax - Individual Greg Galla","z Brent, Jane",1.12
+"Greg Galla","Tax - Individual Greg Galla","z Brown, Gary & Denise",2.26
+"Greg Galla","Tax - Individual Greg Galla","z Brown, Robert E & Carol S",1.23
+"Greg Galla","Tax - Individual Greg Galla","z Burr, Cheryl:z Burr, Cheryl",1.17
+"Greg Galla","Tax - Individual Greg Galla","z Curran, Michele",3.99
+"Greg Galla","Tax - Individual Greg Galla","z Dettlo, Mark J. & Michelle B.:z Dettlo, Erika",0.43
+"Greg Galla","Tax - Individual Greg Galla","z Dettlo, Mark J. & Michelle B.:z Dettlo, Mark & Michelle",1.23
+"Greg Galla","Tax - Individual Greg Galla","z Fritz, Andrew & Michelle",1.48
+"Greg Galla","Tax - Individual Greg Galla","z Grosso, David",1.41
+"Greg Galla","Tax - Individual Greg Galla","z Jacobs, Ken & Karen",1.1
+"Greg Galla","Tax - Individual Greg Galla","z Johannsen, Richard",0.53
+"Greg Galla","Tax - Individual Greg Galla","z Jurasek, Robert",1.22
+"Greg Galla","Tax - Individual Greg Galla","z Kee, Jeff & Theresa:z Kee, Alyson",0.72
+"Greg Galla","Tax - Individual Greg Galla","z Kee, Jeff & Theresa:z Kee, Jeff & Theresa",3.2
+"Greg Galla","Tax - Individual Greg Galla","z Kosek, Joseph & America",1.13
+"Greg Galla","Tax - Individual Greg Galla","z Kostiuk, Theodore & Stacy",2.55
+"Greg Galla","Tax - Individual Greg Galla","z Kotara, Daniel & Christine",2.32
+"Greg Galla","Tax - Individual Greg Galla","z Lam, Betty",0.12
+"Greg Galla","Tax - Individual Greg Galla","z Laubenstein, Ruth",0.83
+"Greg Galla","Tax - Individual Greg Galla","z Leonteos, Peter & Kimberly",2
+"Greg Galla","Tax - Individual Greg Galla","z Noonan, John & Patricia",4.47
+"Greg Galla","Tax - Individual Greg Galla","z Persson, Clinton & Daisy Lou Pepito",1.35
+"Greg Galla","Tax - Individual Greg Galla","z Rill, Markus & Karen",3.06
+"Greg Galla","Tax - Individual Greg Galla","z Schmitz, Jerilyn",1.7
+"Greg Galla","Tax - Individual Greg Galla","z Schubkegel, Gerorge & Pat",0.43
+"Greg Galla","Tax - Individual Greg Galla","z Selvey, Robert & Ock Joo",1.71
+"Greg Galla","Tax - Individual Greg Galla","z Stanaitis, Mike and LaDonna",2.18
+"Greg Galla","Tax - Individual Greg Galla","z Tau, Mitchell S. & Robyn L",0.8
+"Greg Galla","Tax - Individual Greg Galla","z Tente, Arthur & Mary Ellen",1.65
+"Greg Galla","Tax - Individual Greg Galla","z Thompson, Jonathan B. & Jeanne M.",7.9
+"Greg Galla","Tax - Individual Greg Galla","z Vacek, Michael & Toni",2.54
+"Greg Galla","Tax - Individual Greg Galla","z Vacek, William",1.1
+"Greg Galla","Tax - Individual Greg Galla","z Wallis, Benjamin",1.93
+"Greg Galla","Tax - Individual Greg Galla","z Weber, Frank & Elisabeth",4.1
+"Greg Galla","Tax - Individual Greg Galla","z Werner, Sandra",1.47
+"Greg Galla","Tax - Individual Greg Galla","z White, Stasia",2.08
+"Greg Galla","Tax - Individual Greg Galla","z Whiteley, Connie",3.62
+"Greg Galla","Tax - Individual Greg Galla","GLM Admin Time",11.85
+"Joe Garay","Admin Time - Unbilled Joe Garay","Phillip S. Tarallo, PC",0.42
+"Joe Garay","Admin Time - Unbilled Joe Garay","z Salley, Howard & Carol",0.2
+"Joe Garay","Admin Time - Unbilled Joe Garay","Bish Insurance Agency",0.83
+"Joe Garay","Admin Time - Unbilled Joe Garay","GLM Admin Time",22.11
+"Joe Garay","Admin Time - Unbilled Joe Garay","The Shepherd's Learning Academy:The Shepherd's Learning Academy",1
+"Joe Garay","Client Processing Joe Garay","Nanix Express, Inc.",1.41
+"Joe Garay","Client Processing Joe Garay","Unitrans Illinois Consolidated, Inc.:Unitrans IL Consolidated",3.19
+"Joe Garay","Client Processing Joe Garay","z Froio, Gracie",0.23
+"Joe Garay","Client Processing Joe Garay","z Peterson, Gary & Cheryl",0.2
+"Joe Garay","Client Processing Joe Garay","American Acrylics LLC",1.27
+"Joe Garay","Client Processing Joe Garay","Best Computer System Inc.:Best Computer System Inc",1.15
+"Joe Garay","Client Processing Joe Garay","Bish Insurance Agency",1.15
+"Joe Garay","Client Processing Joe Garay","Blooming Minds Inc",1.83
+"Joe Garay","Client Processing Joe Garay","Bode Day Care",7.34
+"Joe Garay","Client Processing Joe Garay","Bryan Consulting Inc",1.27
+"Joe Garay","Client Processing Joe Garay","CSC Express Paint Inc",1.12
+"Joe Garay","Client Processing Joe Garay","Early Learners LLC",1.95
+"Joe Garay","Client Processing Joe Garay","Graphic Alliance",0.88
+"Joe Garay","Client Processing Joe Garay","Honey Bear Day Care",7
+"Joe Garay","Client Processing Joe Garay","JP & ED Automotive Inc.",6.91
+"Joe Garay","Client Processing Joe Garay","Kitty Pallet",4.38
+"Joe Garay","Client Processing Joe Garay","LDK Ross - Katt's Auto",3.64
+"Joe Garay","Client Processing Joe Garay","Los Fernandez Restaurant LLC",3.22
+"Joe Garay","Client Processing Joe Garay","Newtech Escrap Recycling Inc",0.15
+"Joe Garay","Client Processing Joe Garay","Peycon Velo",0.13
+"Joe Garay","Client Processing Joe Garay","Sparta Bros - Crystal Lake",2.54
+"Joe Garay","Client Processing Joe Garay","The Shepherd's Learning Academy:The Shepherd's Learning Academy",1.58
+"Joe Garay","Client Processing Joe Garay","Tidy Places Inc",1.58
+"Joe Garay","MKT - Networking Joe Garay","GLM Admin Time",2.8
+"Joe Garay","MKT - Prospecting Joe Garay","GLM Admin Time",3.4
+"Joe Garay","Tax - Entity Joe Garay","Nanix Express, Inc.",1.57
+"Joe Garay","Tax - Entity Joe Garay","Olvera Investments, LLC",0.03
+"Joe Garay","Tax - Entity Joe Garay","RDZ Transport, Inc.",2.79
+"Joe Garay","Tax - Entity Joe Garay","z Degala, Satish & Yeulanda",0.88
+"Joe Garay","Tax - Entity Joe Garay","z Lukac, Sandra",0.15
+"Joe Garay","Tax - Entity Joe Garay","z Peterson, Gary & Cheryl",0.65
+"Joe Garay","Tax - Entity Joe Garay","1511 N 15th Ave Investments LLC",1.28
+"Joe Garay","Tax - Entity Joe Garay","1950 N 19th Ave Investments LLC",3.36
+"Joe Garay","Tax - Entity Joe Garay","American Acrylics LLC",4.1
+"Joe Garay","Tax - Entity Joe Garay","Best Computer System Inc.:Best Computer System Inc",7.34
+"Joe Garay","Tax - Entity Joe Garay","Best Computer System Inc.:Niti Desai:Yogesh Desai Marital Trust",0.65
+"Joe Garay","Tax - Entity Joe Garay","Birds of a Feather",4.68
+"Joe Garay","Tax - Entity Joe Garay","Bish Insurance Agency",0.23
+"Joe Garay","Tax - Entity Joe Garay","Blooming Minds Inc",1.96
+"Joe Garay","Tax - Entity Joe Garay","Bode Day Care",4.43
+"Joe Garay","Tax - Entity Joe Garay","Bryan Consulting Inc",3.51
+"Joe Garay","Tax - Entity Joe Garay","CSC Express Paint Inc",1.96
+"Joe Garay","Tax - Entity Joe Garay","Early Learners LLC",2.14
+"Joe Garay","Tax - Entity Joe Garay","Electronic Data Management Inc",1.55
+"Joe Garay","Tax - Entity Joe Garay","Eminence Photo Booth Rentals LLC",2.7
+"Joe Garay","Tax - Entity Joe Garay","Honey Bear Day Care",5.05
+"Joe Garay","Tax - Entity Joe Garay","Hooked & Tagged Inc",8.66
+"Joe Garay","Tax - Entity Joe Garay","JP & ED Automotive Inc.",2.75
+"Joe Garay","Tax - Entity Joe Garay","Jill R Stevens LLC",0.3
+"Joe Garay","Tax - Entity Joe Garay","Kitty Pallet",2.57
+"Joe Garay","Tax - Entity Joe Garay","Los Fernandez Restaurant LLC",1.93
+"Joe Garay","Tax - Entity Joe Garay","Luv U More Inc",2.25
+"Joe Garay","Tax - Entity Joe Garay","Matt's Mobile Meats Inc",0.92
+"Joe Garay","Tax - Entity Joe Garay","NTES Holding",2.03
+"Joe Garay","Tax - Entity Joe Garay","Newtech Escrap Recycling Inc",2.57
+"Joe Garay","Tax - Entity Joe Garay","Power Plus Inc",1.88
+"Joe Garay","Tax - Entity Joe Garay","Renate & Associates Inc",0.6
+"Joe Garay","Tax - Entity Joe Garay","Sparta Bros - Crystal Lake",5.4
+"Joe Garay","Tax - Entity Joe Garay","Tidy Places Inc",6.77
+"Joe Garay","Tax - Entity Joe Garay","WODeration LLC",2.02
+"Joe Garay","Tax - Entity Joe Garay","XtraMile Running",0.22
+"Joe Garay","Tax - Entity Joe Garay","YBB Holdings LLC",5.75
+"Joe Garay","Tax - Individual Joe Garay","RDZ Transport, Inc.",6.02
+"Joe Garay","Tax - Individual Joe Garay","The Shepherd's Learning Academy:Olvera, Belen",0.85
+"Joe Garay","Tax - Individual Joe Garay","z Babczak, David & Monica",2.95
+"Joe Garay","Tax - Individual Joe Garay","z Baierle, Heather",1.02
+"Joe Garay","Tax - Individual Joe Garay","z Barnard, Karen",1
+"Joe Garay","Tax - Individual Joe Garay","z Barry, Nancy",0.88
+"Joe Garay","Tax - Individual Joe Garay","z Bass, Richard S & Kristine A:z Bass, Richard & Kristine",0.28
+"Joe Garay","Tax - Individual Joe Garay","z Collins, Dawn",0.4
+"Joe Garay","Tax - Individual Joe Garay","z Degala, Satish & Yeulanda",2.03
+"Joe Garay","Tax - Individual Joe Garay","z Froio, Gracie",0.92
+"Joe Garay","Tax - Individual Joe Garay","z Garay Avila, Lizbeth & Diego Moreno",0.47
+"Joe Garay","Tax - Individual Joe Garay","z Garcia, Meliton & Alberta",0.23
+"Joe Garay","Tax - Individual Joe Garay","z Harman, Susan J",0.9
+"Joe Garay","Tax - Individual Joe Garay","z Kang, Ashley",0.4
+"Joe Garay","Tax - Individual Joe Garay","z Kumpula, David & Linda Zimnicki",1.7
+"Joe Garay","Tax - Individual Joe Garay","z Lagattuta, Joseph & Barbara",1.12
+"Joe Garay","Tax - Individual Joe Garay","z Lunak, Matt & Becky",1.28
+"Joe Garay","Tax - Individual Joe Garay","z Monaco Alvarado, Jorge & Laura Acevedo",0.67
+"Joe Garay","Tax - Individual Joe Garay","z Niewiadomski, Wilma",0.48
+"Joe Garay","Tax - Individual Joe Garay","z Osos, Christopher & Martha",5.13
+"Joe Garay","Tax - Individual Joe Garay","z Peterson, Gary & Cheryl",6.74
+"Joe Garay","Tax - Individual Joe Garay","z Pizon, Philip & Judith",2.08
+"Joe Garay","Tax - Individual Joe Garay","z Saile, Ralph & Ernastine M",6.07
+"Joe Garay","Tax - Individual Joe Garay","z Salley, Howard & Carol",3.6
+"Joe Garay","Tax - Individual Joe Garay","z Salviola, Jennifer",7.61
+"Joe Garay","Tax - Individual Joe Garay","z Tente, Arthur & Mary Ellen",0.47
+"Joe Garay","Tax - Individual Joe Garay","z Vacek, Michael & Toni",0.53
+"Joe Garay","Tax - Individual Joe Garay","z Villasenor, Jessica",0.63
+"Joe Garay","Tax - Individual Joe Garay","Birds of a Feather",3.53
+"Joe Garay","Tax - Individual Joe Garay","Bish Insurance Agency",2.72
+"Joe Garay","Tax - Individual Joe Garay","Bryan Consulting Inc",0.58
+"Joe Garay","Tax - Individual Joe Garay","GLM Admin Time",0.6
+"Joe Garay","Tax - Individual Joe Garay","Honey Bear Day Care",4.63
+"Joe Garay","Tax - Individual Joe Garay","JP & ED Automotive Inc.",0.45
+"Joe Garay","Tax - Individual Joe Garay","Kitty Pallet",3.37
+"Joe Garay","Tax - Individual Joe Garay","LDK Ross - Katt's Auto",0.75
+"Joe Garay","Tax - Individual Joe Garay","Los Fernandez Restaurant LLC",0.02
+"Joe Garay","Tax - Individual Joe Garay","Lyric Data Solutions",4.7
+"Joe Garay","Tax - Individual Joe Garay","Power Plus Inc",0.93
+"Joe Garay","Tax - Individual Joe Garay","Rosy Recruits LLC",0.82
+"Joe Garay","Tax - Individual Joe Garay","Salgado Inc",0.35
+"Joe Garay","Tax - Individual Joe Garay","Signature Cleaning Inc",2.45
+"Joe Garay","Tax - Individual Joe Garay","The Shepherd's Learning Academy:The Shepherd's Learning Academy",5.05
+"Joe Garay","Tax - Individual Joe Garay","Tidy Places Inc",3.29
+"Joe Garay","Tax - Individual Joe Garay","WODeration LLC",2.82
+"Julie Blumenfeld","Admin Time - Unbilled Julie Blumenfeld","Addison Building Materials Inc",1.41
+"Julie Blumenfeld","Admin Time - Unbilled Julie Blumenfeld","COPS Testing Service Inc.",1.62
+"Julie Blumenfeld","Admin Time - Unbilled Julie Blumenfeld","GLM Admin Time",51.03
+"Julie Blumenfeld","Admin Time - Unbilled Julie Blumenfeld","Glenview RE LLC",0.17
+"Julie Blumenfeld","Admin Time - Unbilled Julie Blumenfeld","Greater Chicago I-55 Truck Stop",0.47
+"Julie Blumenfeld","Admin Time - Unbilled Julie Blumenfeld","NRG Plus",0.33
+"Julie Blumenfeld","Admin Time - Unbilled Julie Blumenfeld","S & G Norridge LLC",0.6
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","Addison Building Materials Inc",2.88
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","COPS Testing Service Inc.",0.28
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","Classic Car Wash of Naperville LLC",0.37
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","GLM Admin Time",5.13
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","Glenview Retail LLC",0.33
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","Greater Chicago I-55 Restaurant",1.3
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","Greater Chicago I-55 Truck Stop",7.48
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","Party Gold Style:PGS Gold & Coin",6.13
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","Quick Serve Inc",9.53
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RBO LLC",1.58
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG1-Deep Entertainment",2.17
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG1-Jodys Bedford Park",0.78
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG1-Jodys Chicago Ridge",1.05
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG1-Jodys River Grove",0.88
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG1-RD2 Bar",0.15
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG1-Wild Crab",1.22
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG2-King Quest",2.37
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG2-King Quest 2",0.38
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG3-BPS Wine Bar",1.16
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG3-Elite Restaurant",2.49
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG3-Elite Restaurant 2",1.07
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG3-RSB Tavern",1.37
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG4-Elite Entertainment 2",1.07
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RG4-K3 Wine Bar",1.36
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RS Enterprise Admin",1.32
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RS Enterprises Mall Dr",1.59
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","RS Wisconsin Inc.",1.05
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","S & G Norridge LLC",6.73
+"Julie Blumenfeld","Client Processing Julie Blumenfeld","S & G Partners LLC",0.28
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","Addison Building Materials Inc",18.9
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","COPS Testing Service Inc.",0.69
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","GLM Admin Time",0.1
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","Glenview Retail LLC",0.25
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","Greater Chicago I-55 Truck Stop",1.57
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","Party Gold Style:PGS Gold & Coin",3.17
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","Quick Serve Inc",0.88
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","RS Wisconsin Inc.",1.02
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","S & G Norridge LLC",0.52
+"Julie Blumenfeld","Client Projects Julie Blumenfeld","S & G Partners LLC",0.48
+"Julie Blumenfeld","Paid Time Off Julie Blumenfeld","GLM Admin Time",22.5
+"Kim Didier","Admin Time - Unbilled Kim Didier","GLM Admin Time",12.88
+"Kim Didier","Admin Time - Unbilled Kim Didier","Party Gold Style:PGS Gold & Coin",0.33
+"Kim Didier","Admin Time - Unbilled Kim Didier","RS Enterprises Mall Dr",0.28
+"Kim Didier","Admin Time - Unbilled Kim Didier","RS Wisconsin Inc.",1.32
+"Kim Didier","Client Processing Kim Didier","Driven Service Professionals, Inc.",3.89
+"Kim Didier","Client Processing Kim Didier","R Midwest, Inc.",5.41
+"Kim Didier","Client Processing Kim Didier","RS Fuels, Inc.",26.03
+"Kim Didier","Client Processing Kim Didier","Advanced Petroleum LLC",0.23
+"Kim Didier","Client Processing Kim Didier","Classic Car Wash of Naperville LLC",1.21
+"Kim Didier","Client Processing Kim Didier","GLM Admin Time",11.3
+"Kim Didier","Client Processing Kim Didier","Glenview Retail LLC",3.7
+"Kim Didier","Client Processing Kim Didier","JE Enterprise LLC",8.21
+"Kim Didier","Client Processing Kim Didier","Naper Hill Inc.",2.87
+"Kim Didier","Client Processing Kim Didier","Orchards at O'Hare DesPlaines",0.62
+"Kim Didier","Client Processing Kim Didier","Party Gold Style:PGS Gold & Coin",12.21
+"Kim Didier","Client Processing Kim Didier","Quick Serve Inc",16.45
+"Kim Didier","Client Processing Kim Didier","RBO LLC",0.72
+"Kim Didier","Client Processing Kim Didier","RS Enterprise Admin",0.55
+"Kim Didier","Client Processing Kim Didier","RS Enterprises Mall Dr",14.11
+"Kim Didier","Client Processing Kim Didier","RS Wisconsin Inc.",16.29
+"Kim Didier","Client Processing Kim Didier","SE Cluster One",0.35
+"Kim Didier","Client Processing Kim Didier","United Petroleum Services Inc",0.2
+"Kim Didier","Client Projects Kim Didier","RS Fuels, Inc.",1.38
+"Kim Didier","Client Projects Kim Didier","Party Gold Style:PGS Gold & Coin",0.5
+"Kim Didier","Tax - Individual Kim Didier","z Gerace, Dan",1.25
+"Kim Smith","Admin Time - Unbilled Kim Smith","z Collins, Dawn",0.3
+"Kim Smith","Admin Time - Unbilled Kim Smith","z Rehman, Atiq",0.25
+"Kim Smith","Admin Time - Unbilled Kim Smith","Bode Day Care",2.64
+"Kim Smith","Admin Time - Unbilled Kim Smith","Des Plaines Chamber of Commerce",1.25
+"Kim Smith","Admin Time - Unbilled Kim Smith","GLM Admin Time",33.5
+"Kim Smith","Admin Time - Unbilled Kim Smith","Great Plains Petroleum LLC",1.55
+"Kim Smith","Admin Time - Unbilled Kim Smith","Greater Chicago I-55 Restaurant",0.33
+"Kim Smith","Admin Time - Unbilled Kim Smith","Greater Chicago I-55 Truck Stop",0.61
+"Kim Smith","Admin Time - Unbilled Kim Smith","Los Fernandez Restaurant LLC",0.68
+"Kim Smith","Admin Time - Unbilled Kim Smith","Rosy Recruits LLC",0.53
+"Kim Smith","Admin Time - Unbilled Kim Smith","Tidy Places Inc",2.42
+"Kim Smith","Client Processing Kim Smith","Bamboo Rewards LLC",1.1
+"Kim Smith","Client Processing Kim Smith","Best Computer System Inc.:Best Computer System Inc",0.02
+"Kim Smith","Client Processing Kim Smith","Bode Day Care",0.55
+"Kim Smith","Client Processing Kim Smith","Des Plaines Chamber of Commerce",2.83
+"Kim Smith","Client Processing Kim Smith","GLM Admin Time",1.18
+"Kim Smith","Client Processing Kim Smith","Greater Chicago I-55 Restaurant",2.16
+"Kim Smith","Client Processing Kim Smith","Greater Chicago I-55 Truck Stop",2.8
+"Kim Smith","Client Processing Kim Smith","Honey Bear Day Care",5.78
+"Kim Smith","Client Processing Kim Smith","Los Fernandez Restaurant LLC",7.77
+"Kim Smith","Client Processing Kim Smith","Ohare Real Estate LLC",1.22
+"Kim Smith","Client Processing Kim Smith","Peycon Velo",0.18
+"Kim Smith","Client Processing Kim Smith","RBO LLC",1.9
+"Kim Smith","Client Processing Kim Smith","Specials on Lake LTD",0.13
+"Kim Smith","Client Processing Kim Smith","Tidy Places Inc",1.4
+"Kim Smith","Client Projects Kim Smith","Bode Day Care",1.93
+"Kim Smith","Client Projects Kim Smith","Honey Bear Day Care",2.07
+"Kim Smith","Client Projects Kim Smith","Specials on Lake LTD",0.58
+"Kim Smith","Client Projects Kim Smith","The Shepherd's Learning Academy:The Shepherd's Learning Academy",2.22
+"Kim Smith","Distributorship Processing Kim Smith","RS Fuels, Inc.",11.52
+"Kim Smith","Distributorship Processing Kim Smith","GLM Admin Time",3.14
+"Kim Smith","Distributorship Processing Kim Smith","Great Plains Petroleum LLC",19.28
+"Kim Smith","Distributorship Processing Kim Smith","Progressive Petroleum LLC",0.12
+"Kim Smith","Distributorship Processing Kim Smith","United Fuel Wholesale LLC",12.9
+"Kim Smith","Distributorship Processing Kim Smith","United Petroleum Services Inc",33.11
+"Kim Smith","Payroll Services Kim Smith","GLM Admin Time",0.02
+"Kim Smith","Payroll Services Kim Smith","Greater Chicago I-55 Restaurant",2.7
+"Kim Smith","Payroll Services Kim Smith","Greater Chicago I-55 Truck Stop",9.07
+"Kim Smith","Payroll Services Kim Smith","MVR Transport LLC",0.2
+"Kim Smith","Payroll Services Kim Smith","Renate & Associates Inc",0.27
+"Kim Smith","Payroll Services Kim Smith","Specials on Lake LTD",3.16
+"Kim Smith","Payroll Taxes Kim Smith","Bish Insurance Agency",0.22
+"Kim Smith","Payroll Taxes Kim Smith","Bode Day Care",0.28
+"Kim Smith","Payroll Taxes Kim Smith","Honey Bear Day Care",0.27
+"Kim Smith","Tax - Entity Kim Smith","Phillip S. Tarallo, PC",1.45
+"Kim Smith","Tax - Entity Kim Smith","Bode Day Care",0.38
+"Kim Smith","Tax - Entity Kim Smith","GLM Admin Time",0.23
+"Kim Smith","Tax - Entity Kim Smith","Luv U More Inc",2.68
+"Kim Smith","Tax - Individual Kim Smith","Gorman & Gorman Ent, Inc.",0.95
+"Kim Smith","Tax - Individual Kim Smith","Phillip S. Tarallo, PC",0.58
+"Kim Smith","Tax - Individual Kim Smith","z Baierle, Heather",0.52
+"Kim Smith","Tax - Individual Kim Smith","z Barnes, Maureen",1.88
+"Kim Smith","Tax - Individual Kim Smith","z Bashleben, Jerry & Christine",0.35
+"Kim Smith","Tax - Individual Kim Smith","z Charewicz, David",0.37
+"Kim Smith","Tax - Individual Kim Smith","z Coles, Dan & Ann",1.99
+"Kim Smith","Tax - Individual Kim Smith","z Coles, Lahna",0.75
+"Kim Smith","Tax - Individual Kim Smith","z Collins, Dawn",1.12
+"Kim Smith","Tax - Individual Kim Smith","z Dittmer, Gael",0.3
+"Kim Smith","Tax - Individual Kim Smith","z Firebaugh, Jonathan",1.27
+"Kim Smith","Tax - Individual Kim Smith","z Gajewski, Alexis",0.55
+"Kim Smith","Tax - Individual Kim Smith","z Gajewski, Mark & Charlotte",0.91
+"Kim Smith","Tax - Individual Kim Smith","z Gandhi, Ankit & Khushabu",0.65
+"Kim Smith","Tax - Individual Kim Smith","z Gandhi, Ashok & Rashmi",0.75
+"Kim Smith","Tax - Individual Kim Smith","z Gorman, Glen & Nancy",0.15
+"Kim Smith","Tax - Individual Kim Smith","z Lunak, Matt & Becky",0.84
+"Kim Smith","Tax - Individual Kim Smith","z Niewiadomski, Wilma",1.15
+"Kim Smith","Tax - Individual Kim Smith","z Panayotov, Patrick",1.32
+"Kim Smith","Tax - Individual Kim Smith","z Pizon, Philip & Judith",0.85
+"Kim Smith","Tax - Individual Kim Smith","z Povidas, Allan & Marisa:z Povidas, Allan & Marisa",0.88
+"Kim Smith","Tax - Individual Kim Smith","z Rehman, Atiq",0.13
+"Kim Smith","Tax - Individual Kim Smith","z Villasenor, Jessica",0.08
+"Kim Smith","Tax - Individual Kim Smith","z Zinn, Daniel R",0.55
+"Kim Smith","Tax - Individual Kim Smith","z Zinn, Greg",1.08
+"Kim Smith","Tax - Individual Kim Smith","Bish Insurance Agency",1.5
+"Kim Smith","Tax - Individual Kim Smith","Elk Grove Jwlr &Loan II Inc",0.72
+"Kim Smith","Tax - Individual Kim Smith","GLM Admin Time",3.58
+"Kim Smith","Tax - Individual Kim Smith","LDK Ross - Katt's Auto",0.47
+"Kim Smith","Tax - Individual Kim Smith","Signature Cleaning Inc",0.73
+"Kim Smith","Tax - Individual Kim Smith","Thai Garden Inc",1.43
+"Kim Smith","Tax - Individual Kim Smith","Tidy Places Inc",0.48
+"Kristin Hayes","Admin Time - Unbilled Kristin Hayes","GLM Admin Time",2.71
+"Kristin Hayes","Admin Time - Unbilled Kristin Hayes","Great Plains Petroleum LLC",0.55
+"Kristin Hayes","Admin Time - Unbilled Kristin Hayes","RBO LLC",0.28
+"Kristin Hayes","Client Processing Kristin Hayes","Felicia's Meat Market",1.08
+"Kristin Hayes","Client Projects Kristin Hayes","RS Fuels, Inc.",4.82
+"Kristin Hayes","Client Projects Kristin Hayes","GLM Admin Time",1.75
+"Kristin Hayes","Client Projects Kristin Hayes","Great Plains Petroleum LLC",0.65
+"Kristin Hayes","Client Projects Kristin Hayes","Lockport Gas & Food LLC",1.57
+"Kristin Hayes","Client Projects Kristin Hayes","R&R Car Wash LLC",4.54
+"Kristin Hayes","Client Projects Kristin Hayes","RS Wisconsin Inc.",0.95
+"Kristin Hayes","Client Projects Kristin Hayes","The Shepherd's Learning Academy:M & B Investment Group",0.37
+"Kristin Hayes","Client Projects Kristin Hayes","The Shepherd's Learning Academy:The Shepherd's Learning Academy",0.33
+"Kristin Hayes","Client Projects Kristin Hayes","Trevor RE LLC",5.74
+"Kristin Hayes","Client Projects Kristin Hayes","United Petroleum Services Inc",8.66
+"Kristin Hayes","Distributorship Processing Kristin Hayes","RS Fuels, Inc.",0.53
+"Kristin Hayes","Distributorship Processing Kristin Hayes","CK United LLC",1.32
+"Kristin Hayes","Distributorship Processing Kristin Hayes","Great Plains Petroleum LLC",10.64
+"Kristin Hayes","Distributorship Processing Kristin Hayes","Lockport Gas & Food LLC",0.77
+"Kristin Hayes","Distributorship Processing Kristin Hayes","Naper Hill Inc.",0.55
+"Kristin Hayes","Distributorship Processing Kristin Hayes","R&R Car Wash LLC",3.73
+"Kristin Hayes","Distributorship Processing Kristin Hayes","Simple Fuel Company",0.57
+"Kristin Hayes","Distributorship Processing Kristin Hayes","Trevor RE LLC",1.13
+"Kristin Hayes","Distributorship Processing Kristin Hayes","United Petroleum Services Inc",77.94
+"Kristin Hayes","Paid Time Off Kristin Hayes","GLM Admin Time",6.25
+"Laura Piwowarczyk","Admin Time - Unbilled Laura Piwowarczyk","Cruises International Inc",0.25
+"Laura Piwowarczyk","Admin Time - Unbilled Laura Piwowarczyk","GLM Admin Time",30.9
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Dapper Destinations Travel, LLC",7.49
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Birds of a Feather",2.52
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Cruises International Inc",11.3
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Eminence Photo Booth Rentals LLC",4.31
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","GLM Admin Time",0
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Haas Automotive Inc.",1.11
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Journey Mindfully LLC",3.95
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Kimmer's Ice Cream",0.07
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Mark A Byrd PC",2.54
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Newtech Escrap Recycling Inc",3.82
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Northern Door",4.73
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Plum Island Partners Inc",6.55
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Quick Serve Inc",0.33
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Rand Mfg",0.41
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Rizzo Young Marketing LLC",3.79
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","Rubino Engineering",8.92
+"Laura Piwowarczyk","Client Processing Laura Piwowarczyk","XtraMile Running",1.88
+"Laura Piwowarczyk","Client Projects Laura Piwowarczyk","Cruises International Inc",11.64
+"Laura Piwowarczyk","Client Projects Laura Piwowarczyk","Jama Strategic Solutions LLC",0.83
+"Laura Piwowarczyk","Client Projects Laura Piwowarczyk","Plum Island Partners Inc",2.65
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","42 Flow LLC",0.13
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","Aerapy:Aerapy LLC",0.52
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","Cruises International Inc",0.97
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","Glenview Retail LLC",0.87
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","JE Enterprise LLC",1.53
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","Kimmer's Ice Cream",1.38
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","Naper Hill Inc.",0.5
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","PK Supplies",0.18
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","Plum Island Partners Inc",0.86
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","Quick Serve Inc",1.03
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","RS Enterprises Mall Dr",0.68
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","RS Wisconsin Inc.",5
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","Rizzo Young Marketing LLC",0.93
+"Laura Piwowarczyk","Payroll Services Laura Piwowarczyk","TAJ Digital",0.05
+"Laura Roehrig","Admin Time - Unbilled Laura Roehrig","Driven Service Professionals, Inc.",0.42
+"Laura Roehrig","Admin Time - Unbilled Laura Roehrig","GLM Admin Time",16.83
+"Laura Roehrig","Admin Time - Unbilled Laura Roehrig","NC Petro Inc",1.12
+"Laura Roehrig","Client Processing Laura Roehrig","Driven Service Professionals, Inc.",8.15
+"Laura Roehrig","Client Processing Laura Roehrig","R Midwest, Inc.",14.66
+"Laura Roehrig","Client Processing Laura Roehrig","RS Fuels, Inc.",9.91
+"Laura Roehrig","Client Processing Laura Roehrig","RVP Concrete, Inc.",1.17
+"Laura Roehrig","Client Processing Laura Roehrig","Clavey Auto Service",0.47
+"Laura Roehrig","Client Processing Laura Roehrig","Denny G's Automotive",0.85
+"Laura Roehrig","Client Processing Laura Roehrig","EGM Automotive",0.6
+"Laura Roehrig","Client Processing Laura Roehrig","GLM Admin Time",0.48
+"Laura Roehrig","Client Processing Laura Roehrig","Hoffman Estates Real Estate LLC",0.97
+"Laura Roehrig","Client Processing Laura Roehrig","Investment Alliance LLC",0.93
+"Laura Roehrig","Client Processing Laura Roehrig","JE Enterprise LLC",4.86
+"Laura Roehrig","Client Processing Laura Roehrig","JRS Marketing Communication",0.94
+"Laura Roehrig","Client Processing Laura Roehrig","Kenosha RE LLC",0.3
+"Laura Roehrig","Client Processing Laura Roehrig","Naper Meadows RE LLC",0.47
+"Laura Roehrig","Client Processing Laura Roehrig","OHD Chicago Inc",0.68
+"Laura Roehrig","Client Processing Laura Roehrig","Performance Werks Auto Clinic Inc",0.17
+"Laura Roehrig","Client Processing Laura Roehrig","Progressive Petroleum LLC",0.46
+"Laura Roehrig","Client Processing Laura Roehrig","RB- BKB Oil Co",3.8
+"Laura Roehrig","Client Processing Laura Roehrig","RB- BPS Oil Co",2.64
+"Laura Roehrig","Client Processing Laura Roehrig","RB- Pocahontas",3.81
+"Laura Roehrig","Client Processing Laura Roehrig","RS Wisconsin Inc.",9.72
+"Laura Roehrig","Client Processing Laura Roehrig","Riteline Development LLC",0.41
+"Laura Roehrig","Client Processing Laura Roehrig","Riteline Properties LLC",0.18
+"Laura Roehrig","Client Processing Laura Roehrig","S & G Hinsdale LLC",5.58
+"Laura Roehrig","Client Processing Laura Roehrig","SE Cluster One",3.04
+"Laura Roehrig","Client Processing Laura Roehrig","Stambolic RE LLC",1.63
+"Laura Roehrig","Client Processing Laura Roehrig","We Wash Holdings LLC:Northshore Auto Spa - Mark",1.3
+"Laura Roehrig","Distributorship Processing Laura Roehrig","RS Fuels, Inc.",15.8
+"Laura Roehrig","Paid Time Off Laura Roehrig","GLM Admin Time",23.47
+"Laura Roehrig","Payroll Services Laura Roehrig","Denny G's Automotive",0.79
+"Laura Roehrig","Payroll Services Laura Roehrig","Jim the Electrician",0.57
+"Laura Roehrig","Payroll Taxes Laura Roehrig","MM Tool Sales, Inc.",0.57
+"Laura Roehrig","Payroll Taxes Laura Roehrig","RDZ Transport, Inc.",0.25
+"Laura Roehrig","Payroll Taxes Laura Roehrig","z Zinn, Greg",0.85
+"Laura Roehrig","Payroll Taxes Laura Roehrig","Byte Me! Computer Sales",0.2
+"Laura Roehrig","Payroll Taxes Laura Roehrig","EGM Automotive",0.45
+"Laura Roehrig","Payroll Taxes Laura Roehrig","Industrial Eye LLc",0.22
+"Laura Roehrig","Tax - Entity Laura Roehrig","Clinger Trucking, Inc.",0.4
+"Laura Roehrig","Tax - Entity Laura Roehrig","Driven Service Professionals, Inc.",0.85
+"Laura Roehrig","Tax - Entity Laura Roehrig","R Midwest, Inc.",0.98
+"Laura Roehrig","Tax - Entity Laura Roehrig","RDZ Transport, Inc.",2.97
+"Laura Roehrig","Tax - Entity Laura Roehrig","RS Fuels, Inc.",0.88
+"Laura Roehrig","Tax - Entity Laura Roehrig","Become Counseling Center",0.15
+"Laura Roehrig","Tax - Entity Laura Roehrig","Clavey Auto Service",0.39
+"Laura Roehrig","Tax - Entity Laura Roehrig","Hannel Oil Company Inc",1.27
+"Laura Roehrig","Tax - Entity Laura Roehrig","Industrial Eye LLc",1.34
+"Laura Roehrig","Tax - Entity Laura Roehrig","Maid in the USA Ltd",0.8
+"Laura Roehrig","Tax - Entity Laura Roehrig","Moby Deck",0.55
+"Laura Roehrig","Tax - Entity Laura Roehrig","Papo's Express Service Inc",0.78
+"Laura Roehrig","Tax - Entity Laura Roehrig","RS Wisconsin Inc.",0.6
+"Laura Roehrig","Tax - Entity Laura Roehrig","SE Cluster One",1.05
+"Laura Roehrig","Tax - Entity Laura Roehrig","Something's Cooking Ltd",0.55
+"Laura Roehrig","Tax - Entity Laura Roehrig","United Petroleum Services Inc",0.63
+"Laura Roehrig","Tax - Individual Laura Roehrig","Clinger Trucking, Inc.",0.18
+"Laura Roehrig","Tax - Individual Laura Roehrig","Phillip S. Tarallo, PC",0.48
+"Laura Roehrig","Tax - Individual Laura Roehrig","Repro Parts, Inc.",0.87
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Brown, Ken & Marie",0.5
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Burg, David",0.33
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Coppola, Frank & Julie",0.33
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Danikowski, David & Regina",0.32
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Gibson, Robert & Sheri",0.55
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Gorman, Glen & Nancy",0.37
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Greenhalgh, Matthew & Jillian Rayburn",0.17
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Hoke, Diana",0.97
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Mota Castro, Juan & Noelle Samuels",0.95
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Mott, Lionel K",1.08
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Pizano, Ruben & Azucena",0.37
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Prestia, Gino",0.47
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Salisbury, Mike",0.87
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Stan, Marin & Rodica",0.38
+"Laura Roehrig","Tax - Individual Laura Roehrig","z Sullivan, Daniel & Camille .",0.68
+"Laura Roehrig","Tax - Individual Laura Roehrig","GLM Admin Time",1.13
+"Laura Roehrig","Tax - Individual Laura Roehrig","JE Enterprise LLC",0.27
+"Leanne Muscari","Admin Time - Unbilled Leanne Muscari","Addison Building Materials Inc",0.37
+"Leanne Muscari","Admin Time - Unbilled Leanne Muscari","Bode Day Care",0.43
+"Leanne Muscari","Admin Time - Unbilled Leanne Muscari","GLM Admin Time",14.46
+"Leanne Muscari","Admin Time - Unbilled Leanne Muscari","JP & ED Automotive Inc.",0.7
+"Leanne Muscari","Admin Time - Unbilled Leanne Muscari","Kitty Pallet",0.25
+"Leanne Muscari","Admin Time - Unbilled Leanne Muscari","Naper Hill Inc.",0.2
+"Leanne Muscari","Admin Time - Unbilled Leanne Muscari","Plum Island Partners Inc",2.24
+"Leanne Muscari","Admin Time - Unbilled Leanne Muscari","Quick Serve Inc",0.12
+"Leanne Muscari","Client Processing Leanne Muscari","Driven Service Professionals, Inc.",0.43
+"Leanne Muscari","Client Processing Leanne Muscari","R Midwest, Inc.",1.05
+"Leanne Muscari","Client Processing Leanne Muscari","RVP Concrete, Inc.",0.15
+"Leanne Muscari","Client Processing Leanne Muscari","Addison Building Materials Inc",2.14
+"Leanne Muscari","Client Processing Leanne Muscari","Bode Day Care",0.32
+"Leanne Muscari","Client Processing Leanne Muscari","GLM Admin Time",0.67
+"Leanne Muscari","Client Processing Leanne Muscari","JE Enterprise LLC",7.39
+"Leanne Muscari","Client Processing Leanne Muscari","Orchards at O'Hare DesPlaines",0.58
+"Leanne Muscari","Client Processing Leanne Muscari","Plum Island Partners Inc",1.45
+"Leanne Muscari","Client Processing Leanne Muscari","Quick Serve Inc",1.02
+"Leanne Muscari","Client Processing Leanne Muscari","RS Enterprise Admin",0.43
+"Leanne Muscari","Client Processing Leanne Muscari","SE Cluster One",2.59
+"Leanne Muscari","Client Processing Leanne Muscari","Sparta Bros - Crystal Lake",0.17
+"Leanne Muscari","Client Projects Leanne Muscari","Addison Building Materials Inc",5.16
+"Leanne Muscari","Client Projects Leanne Muscari","Bode Day Care",1.18
+"Leanne Muscari","Client Projects Leanne Muscari","SE Cluster One",0.77
+"Leanne Muscari","Payroll Services Leanne Muscari","RVP Concrete, Inc.",0.7
+"Leanne Muscari","Payroll Services Leanne Muscari","Bode Day Care",0.87
+"Leanne Muscari","Payroll Services Leanne Muscari","Classic Car Wash of Naperville LLC",0.23
+"Leanne Muscari","Payroll Services Leanne Muscari","GLM Admin Time",0.33
+"Leanne Muscari","Payroll Services Leanne Muscari","Glenview Retail LLC",0.94
+"Leanne Muscari","Payroll Services Leanne Muscari","Honey Bear Day Care",3.16
+"Leanne Muscari","Payroll Services Leanne Muscari","JE Enterprise LLC",2.03
+"Leanne Muscari","Payroll Services Leanne Muscari","Jim the Electrician",1.44
+"Leanne Muscari","Payroll Services Leanne Muscari","Kitty Pallet",2.19
+"Leanne Muscari","Payroll Services Leanne Muscari","LDK Ross - Katt's Auto",1.48
+"Leanne Muscari","Payroll Services Leanne Muscari","Naper Hill Inc.",2.88
+"Leanne Muscari","Payroll Services Leanne Muscari","Orchards at O'Hare DesPlaines",0.33
+"Leanne Muscari","Payroll Services Leanne Muscari","Plum Island Partners Inc",15.25
+"Leanne Muscari","Payroll Services Leanne Muscari","Quick Serve Inc",13.67
+"Leanne Muscari","Payroll Services Leanne Muscari","RS Enterprises Mall Dr",2.11
+"Leanne Muscari","Payroll Services Leanne Muscari","SE Cluster One",0.3
+"Megan Wieszchowski","Admin Time - Unbilled Megan Wieszchowski","GLM Admin Time",16.73
+"Megan Wieszchowski","Admin Time - Unbilled Megan Wieszchowski","Great Plains Petroleum LLC",2.25
+"Megan Wieszchowski","Admin Time - Unbilled Megan Wieszchowski","United Petroleum Services Inc",3.44
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","Become Counseling Center",1.47
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","CET Commercial Dvlpmnt",0.68
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","CK United LLC",3.63
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","Canopy Perfect Inc",3.07
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","Felicia's Meat Market",0.83
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","JA United LLC",1.2
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","John's Garage",0.85
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","MRJ Real Estate LLC",0.3
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","Mizpah Ventures LLC",1.33
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","Noor Real Estate LLC",1.58
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","Plum Island Partners Inc",8.87
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","Simple Fuel Company",5.43
+"Megan Wieszchowski","Client Processing Megan Wieszchowski","Something's Cooking Ltd",3.21
+"Megan Wieszchowski","Client Projects Megan Wieszchowski","Super Save Fuel",10.96
+"Megan Wieszchowski","Client Projects Megan Wieszchowski","United Petroleum Services Inc",0.85
+"Megan Wieszchowski","Distributorship Processing Megan Wieszchowski","RS Fuels, Inc.",0.48
+"Megan Wieszchowski","Distributorship Processing Megan Wieszchowski","Advanced Petroleum LLC",0.65
+"Megan Wieszchowski","Distributorship Processing Megan Wieszchowski","GLM Admin Time",0.27
+"Megan Wieszchowski","Distributorship Processing Megan Wieszchowski","Great Plains Petroleum LLC",43.21
+"Megan Wieszchowski","Distributorship Processing Megan Wieszchowski","Progressive Petroleum LLC",1.68
+"Megan Wieszchowski","Distributorship Processing Megan Wieszchowski","United Fuel Wholesale LLC",2.67
+"Megan Wieszchowski","Distributorship Processing Megan Wieszchowski","United Petroleum Services Inc",78.62
+"Megan Wieszchowski","Payroll Services Megan Wieszchowski","Felicia's Meat Market",1.26
+"Megan Wieszchowski","Payroll Taxes Megan Wieszchowski","Become Counseling Center",0.2
+"Megan Wieszchowski","Tax - Individual Megan Wieszchowski","z Racana, Maria",1.43
+"Megan Wieszchowski","Tax - Individual Megan Wieszchowski","z Samargis, Elaina",2.09
+"Megan Wieszchowski","Tax - Individual Megan Wieszchowski","GLM Admin Time",0.75
+"Megan Wieszchowski","Tax - Individual Megan Wieszchowski","Something's Cooking Ltd",0.62
+"Noreen Millins","Admin Time - Unbilled Noreen Millins","Comfordable Rentals LLC",2.22
+"Noreen Millins","Admin Time - Unbilled Noreen Millins","GLM Admin Time",25.77
+"Noreen Millins","Client Processing Noreen Millins","Blooming Minds Inc",1.53
+"Noreen Millins","Client Processing Noreen Millins","Early Learners LLC",0.35
+"Noreen Millins","Client Processing Noreen Millins","Glenview Retail LLC",3.76
+"Noreen Millins","Client Processing Noreen Millins","Hannel Oil Company Inc",9.15
+"Noreen Millins","Client Processing Noreen Millins","Naper Hill Inc.",3.57
+"Noreen Millins","Client Processing Noreen Millins","OHD Chicago Inc",17.9
+"Noreen Millins","Client Processing Noreen Millins","RB- Admin",10.41
+"Noreen Millins","Client Processing Noreen Millins","RB- Alam Oil Co",3.67
+"Noreen Millins","Client Processing Noreen Millins","RB- Everlast Oil Inc",7.59
+"Noreen Millins","Client Processing Noreen Millins","The Shepherd's Learning Academy:M & B Investment Group",0.38
+"Noreen Millins","Client Processing Noreen Millins","The Shepherd's Learning Academy:The Shepherd's Learning Academy",1.77
+"Noreen Millins","Client Processing Noreen Millins","Victoria Rock & Associates LLC",3.93
+"Noreen Millins","Client Projects Noreen Millins","Grayspace, Inc.",0.41
+"Noreen Millins","Client Projects Noreen Millins","Unitrans Illinois Consolidated, Inc.:Unitrans IL Consolidated",0.35
+"Noreen Millins","Client Projects Noreen Millins","z Peterson, Gary & Cheryl",1.2
+"Noreen Millins","Client Projects Noreen Millins","Blooming Minds Inc",0.38
+"Noreen Millins","Client Projects Noreen Millins","Early Learners LLC",0.53
+"Noreen Millins","Client Projects Noreen Millins","OHD Chicago Inc",4.86
+"Noreen Millins","Client Projects Noreen Millins","Quick Serve Inc",1.05
+"Noreen Millins","Client Projects Noreen Millins","RB- Admin",3.17
+"Noreen Millins","Client Projects Noreen Millins","RB- Everlast Oil Inc",0.65
+"Noreen Millins","Client Projects Noreen Millins","Rosy Recruits LLC",0.33
+"Noreen Millins","Client Projects Noreen Millins","YBB Holdings LLC",2.62
+"Noreen Millins","Payroll Services Noreen Millins","Bode Day Care",0.3
+"Noreen Newton","Admin Time - Unbilled Noreen Newton","GLM Admin Time",0.72
+"Noreen Newton","Client Processing Noreen Newton","Education Through Athletics, Ltd.",0.6
+"Noreen Newton","Client Processing Noreen Newton","All Things Woof",0.18
+"Noreen Newton","Client Processing Noreen Newton","Blue4U LLC",0.2
+"Noreen Newton","Client Processing Noreen Newton","Dream Together LLC Re-Sale",0.22
+"Noreen Newton","Client Processing Noreen Newton","GLM Admin Time",0.18
+"Noreen Newton","Client Processing Noreen Newton","New Wave HVAC",1.07
+"Noreen Newton","Client Processing Noreen Newton","Robert's Drapery Center",0.37
+"Noreen Newton","Client Processing Noreen Newton","Simply Portraits Chicago",1.72
+"Noreen Newton","Tax - Individual Noreen Newton","z Angiulo, Alicia",0.42
+"Noreen Newton","Tax - Individual Noreen Newton","z Decarlo, Christopher & Tiffany",0.3
+"Noreen Newton","Tax - Individual Noreen Newton","z Dittmer, Mildred",0.28
+"Noreen Newton","Tax - Individual Noreen Newton","z Grzybek, Robert & Susann",0.28
+"Noreen Newton","Tax - Individual Noreen Newton","z Julitz Moger, Susan",0.2
+"Noreen Newton","Tax - Individual Noreen Newton","z Lindholm, Kendra",0.32
+"Noreen Newton","Tax - Individual Noreen Newton","z Lutfallah, John",0.2
+"Noreen Newton","Tax - Individual Noreen Newton","z Messinger, Charles",0.12
+"Noreen Newton","Tax - Individual Noreen Newton","z Messinger, Jake",0.13
+"Noreen Newton","Tax - Individual Noreen Newton","z Naughton, Claire",0.37
+"Noreen Newton","Tax - Individual Noreen Newton","z Povidas, Allan & Marisa:z Povidas, Roxayn",0.23
+"Noreen Newton","Tax - Individual Noreen Newton","z Schielke, Randolph & Colleen",0.38
+"Noreen Newton","Tax - Individual Noreen Newton","z Scinteie, John & Cristina Ionita:z Scinteie, Patrick",0.08
+"Noreen Newton","Tax - Individual Noreen Newton","z Sharpe, Michael & Sherry",0.58
+"Noreen Newton","Tax - Individual Noreen Newton","z Woods, Ricky & Connie",0.48
+"Noreen Newton","Tax - Individual Noreen Newton","A Shear Delight",0.35
+"Noreen Newton","Tax - Individual Noreen Newton","BGR8 Leadership LLC",8.47
+"Noreen Newton","Tax - Individual Noreen Newton","GLM Admin Time",0.1
+"Noreen Newton","Tax - Individual Noreen Newton","Lobo Pallet Service Inc",0.07
+"Noreen Newton","Tax - Individual Noreen Newton","Rizzo Young Marketing LLC",0.45
+"Noreen Newton","Tax - Individual Noreen Newton","Robert's Drapery Center",0.22
+"Rebecca Blatt","Admin Time - Unbilled Rebecca Blatt","GLM Admin Time",1.93
+"Rebecca Blatt","Client Processing Rebecca Blatt","Data Integrity Computer Systems, Inc.",0.62
+"Rebecca Blatt","Client Processing Rebecca Blatt","RB- RSB Enterprises, Inc",9.11
+"Rebecca Blatt","Client Processing Rebecca Blatt","RS Fuels, Inc.",5.77
+"Rebecca Blatt","Client Processing Rebecca Blatt","Village Cycle & Supply, Inc.",5.02
+"Rebecca Blatt","Client Processing Rebecca Blatt","A Shear Delight",2.68
+"Rebecca Blatt","Client Processing Rebecca Blatt","Ashland & VanBuren Inc",1.29
+"Rebecca Blatt","Client Processing Rebecca Blatt","CET Commercial Dvlpmnt",4.45
+"Rebecca Blatt","Client Processing Rebecca Blatt","DHN Enterprises Ltd",4.57
+"Rebecca Blatt","Client Processing Rebecca Blatt","DOM Enterprises Inc",1.35
+"Rebecca Blatt","Client Processing Rebecca Blatt","Garcia Admin",0.55
+"Rebecca Blatt","Client Processing Rebecca Blatt","General Storage Corp",1.25
+"Rebecca Blatt","Client Processing Rebecca Blatt","IOM Inc",0.99
+"Rebecca Blatt","Client Processing Rebecca Blatt","Irving & Clark Citgo Inc",1.03
+"Rebecca Blatt","Client Processing Rebecca Blatt","Maid in the USA Ltd",10.58
+"Rebecca Blatt","Client Processing Rebecca Blatt","North & Elston Inc",1.51
+"Rebecca Blatt","Client Processing Rebecca Blatt","Papo's 2 LLC",0.67
+"Rebecca Blatt","Client Processing Rebecca Blatt","Papo's Express",9.44
+"Rebecca Blatt","Client Processing Rebecca Blatt","Papo's Express #2 Inc",4.55
+"Rebecca Blatt","Client Processing Rebecca Blatt","Papo's RE Holdings LLC",0.65
+"Rebecca Blatt","Client Processing Rebecca Blatt","RB- Alam Oil Co",3.3
+"Rebecca Blatt","Client Processing Rebecca Blatt","RB- BPS Oil Co",3.67
+"Rebecca Blatt","Client Processing Rebecca Blatt","RB- Decatur",0.37
+"Rebecca Blatt","Client Processing Rebecca Blatt","RB- Everlast Oil Inc",3.47
+"Rebecca Blatt","Client Processing Rebecca Blatt","RS Enterprises Mall Dr",6.77
+"Rebecca Blatt","Client Processing Rebecca Blatt","Robinette Plumbing",4.9
+"Rebecca Blatt","Client Processing Rebecca Blatt","S & G Norridge LLC",7.85
+"Rebecca Blatt","Client Processing Rebecca Blatt","S & G Partners LLC",6.35
+"Rebecca Blatt","Client Processing Rebecca Blatt","Stone Enterprises Round Lake LLC",0.7
+"Rebecca Blatt","Client Processing Rebecca Blatt","Stone Hoffman LLC",0.58
+"Rebecca Blatt","Client Processing Rebecca Blatt","Stone Ventures Inc",7.64
+"Rebecca Blatt","Client Processing Rebecca Blatt","Stone Ventures Round Lake",5.33
+"Rebecca Blatt","Client Processing Rebecca Blatt","United Fuel Wholesale LLC",4.54
+"Rebecca Blatt","Client Processing Rebecca Blatt","We Wash Holdings LLC:We Wash $3 Express Wash Inc",3.45
+"Rebecca Blatt","Client Processing Rebecca Blatt","We Wash Holdings LLC:We Wash Holdings LLC",1.63
+"Rebecca Blatt","Paid Time Off Rebecca Blatt","GLM Admin Time",8
+"Rebecca Blatt","Tax - Entity Rebecca Blatt","Consolidated Display Co Inc:Consolidated Display Co Inc",17.96
+"Rebecca Blatt","Tax - Entity Rebecca Blatt","Effert Financial Solutions Inc",9.24
+"Rebecca Blatt","Tax - Entity Rebecca Blatt","Glenview Retail LLC",0.72
+"Rebecca Blatt","Tax - Entity Rebecca Blatt","Riteline Development LLC",0.7
+"Rebecca Blatt","Tax - Entity Rebecca Blatt","Riteline Properties LLC",1.05
+"Rebecca Blatt","Tax - Entity Rebecca Blatt","Stone Ventures Inc",0.6
+"Rebecca Blatt","Tax - Entity Rebecca Blatt","WODeration LLC",1.85
+"Rebecca Blatt","Tax - Individual Rebecca Blatt","Z Parker, Eve & Dean",1.33
+"Rebecca Blatt","Tax - Individual Rebecca Blatt","z Jones, Adam & Deanna",1.12
+"Rebecca Blatt","Tax - Individual Rebecca Blatt","z Parker, Kyle",0.65
+"Rebecca Blatt","Tax - Individual Rebecca Blatt","z Parker, Riley",0.7
+"Rick Clevenger","Admin Time - Unbilled Rick Clevenger","Garcia Admin",1.7
+"Rick Clevenger","Client Processing Rick Clevenger","Ashland & VanBuren Inc",1.67
+"Rick Clevenger","Client Processing Rick Clevenger","DOM Enterprises Inc",1.5
+"Rick Clevenger","Client Processing Rick Clevenger","IOM Inc",1.48
+"Rick Clevenger","Client Processing Rick Clevenger","Irving & Clark Citgo Inc",2.67
+"Rick Clevenger","Client Processing Rick Clevenger","North & Elston Inc",2.22
+"Rick Clevenger","Client Projects Rick Clevenger","Garcia Admin",1.22
+"Rick Clevenger","Payroll Services Rick Clevenger","Ashland & VanBuren Inc",0.58
+"Rick Clevenger","Payroll Services Rick Clevenger","DOM Enterprises Inc",0.59
+"Rick Clevenger","Payroll Services Rick Clevenger","Garcia Admin",1.55
+"Rick Clevenger","Payroll Services Rick Clevenger","IOM Inc",1.12
+"Rick Clevenger","Payroll Services Rick Clevenger","Irving & Clark Citgo Inc",0.8
+"Rick Clevenger","Payroll Services Rick Clevenger","North & Elston Inc",0.77
+"Ruth Kronvold","Admin Time - Unbilled Ruth Kronvold","Advanced Petroleum LLC",9.31
+"Ruth Kronvold","Admin Time - Unbilled Ruth Kronvold","GLM Admin Time",99.66
+"Ruth Kronvold","Admin Time - Unbilled Ruth Kronvold","Jim the Electrician",0.3
+"Ruth Kronvold","Admin Time - Unbilled Ruth Kronvold","RS Enterprise Admin",1.41
+"Ruth Kronvold","Client Processing Ruth Kronvold","R Midwest, Inc.",0.13
+"Ruth Kronvold","Client Processing Ruth Kronvold","Collaborative Counselling Services",1.03
+"Ruth Kronvold","Client Processing Ruth Kronvold","GLM Admin Time",0.43
+"Ruth Kronvold","Client Processing Ruth Kronvold","Greater Chicago I-55 Truck Stop",1.27
+"Ruth Kronvold","Client Processing Ruth Kronvold","Homestone Imports",0.38
+"Ruth Kronvold","Client Processing Ruth Kronvold","JE Enterprise LLC",0.18
+"Ruth Kronvold","Client Processing Ruth Kronvold","Jen Rose Media LLC",0.25
+"Ruth Kronvold","Client Processing Ruth Kronvold","Maid in the USA Ltd",0.67
+"Ruth Kronvold","Client Processing Ruth Kronvold","Panda Pizza",0.25
+"Ruth Kronvold","Client Processing Ruth Kronvold","Paragon Flowers",0.07
+"Ruth Kronvold","Client Processing Ruth Kronvold","Party Gold Style:PGS Gold & Coin",17.07
+"Ruth Kronvold","Client Processing Ruth Kronvold","RB- Admin",0.45
+"Ruth Kronvold","Client Processing Ruth Kronvold","RB- Alam Oil Co",0.43
+"Ruth Kronvold","Client Processing Ruth Kronvold","Rein & Co Design",0.3
+"Ruth Kronvold","Client Projects Ruth Kronvold","Cruises International Inc",0.2
+"Ruth Kronvold","Client Projects Ruth Kronvold","GLM Admin Time",3.35
+"Ruth Kronvold","Client Projects Ruth Kronvold","New Wave HVAC",0.25
+"Ruth Kronvold","Client Projects Ruth Kronvold","RB- Alam Oil Co",0.4
+"Ruth Kronvold","Client Projects Ruth Kronvold","West Dundee Citgo",3.3
+"Ruth Kronvold","Distributorship Processing Ruth Kronvold","Advanced Petroleum LLC",7.79
+"Ruth Kronvold","Distributorship Processing Ruth Kronvold","Progressive Petroleum LLC",3.55
+"Ruth Kronvold","Distributorship Processing Ruth Kronvold","United Fuel Wholesale LLC",0.77
+"Ruth Kronvold","Distributorship Processing Ruth Kronvold","United Petroleum Services Inc",1.03
+"Ruth Kronvold","Paid Time Off Ruth Kronvold","GLM Admin Time",16.25
+"Ruth Kronvold","Payroll Services Ruth Kronvold","Maid in the USA Ltd",0.5
+"Ruth Kronvold","Payroll Services Ruth Kronvold","Plum Island Partners Inc",0.13
+"Ruth Kronvold","Payroll Services Ruth Kronvold","RB- Admin",0.2
+"Ruth Kronvold","Payroll Taxes Ruth Kronvold","Collaborative Counselling Services",0.07
+"Ruth Kronvold","Payroll Taxes Ruth Kronvold","Maid in the USA Ltd",0.29
+"Scott Natzke","Admin Time - Unbilled Scott Natzke","z Bornstein Trust, Barry I",0.5
+"Scott Natzke","Admin Time - Unbilled Scott Natzke","GLM Admin Time",94.5
+"Scott Natzke","Admin Time - Unbilled Scott Natzke","We Wash Holdings LLC:We Wash Holdings LLC",0.87
+"Scott Natzke","Client Processing Scott Natzke","We Wash Holdings LLC:We Wash Holdings LLC",0.5
+"Scott Natzke","Client Projects Scott Natzke","Education Through Athletics, Ltd.",0.45
+"Scott Natzke","Client Projects Scott Natzke","Lobo Logistic Solutions LLC",0.9
+"Scott Natzke","Client Projects Scott Natzke","Lucky 777 Pizza",0.13
+"Scott Natzke","Client Projects Scott Natzke","Lux Nail School LLC",0.7
+"Scott Natzke","Client Projects Scott Natzke","Thai Garden Inc",0.7
+"Scott Natzke","Tax - Entity Scott Natzke","Appleland Construction, Inc.",0.37
+"Scott Natzke","Tax - Entity Scott Natzke","Education Through Athletics, Ltd.",0.57
+"Scott Natzke","Tax - Entity Scott Natzke","Mike's Auto Clinic, Inc.",1.71
+"Scott Natzke","Tax - Entity Scott Natzke","z Bornstein Trust, Barry I",2.48
+"Scott Natzke","Tax - Entity Scott Natzke","z Decarlo, Christopher & Tiffany",0.38
+"Scott Natzke","Tax - Entity Scott Natzke","z Hoberstorfer, Theodore",0.35
+"Scott Natzke","Tax - Entity Scott Natzke","z Messinger, Richard & Jamie",0.25
+"Scott Natzke","Tax - Entity Scott Natzke","z Schaefer, Estate of Edward",2.02
+"Scott Natzke","Tax - Entity Scott Natzke","z Tate Estate, Veronica",1.07
+"Scott Natzke","Tax - Entity Scott Natzke","A-1 Jewelry & Pawn Inc",0.63
+"Scott Natzke","Tax - Entity Scott Natzke","BGR8 Leadership LLC",1.53
+"Scott Natzke","Tax - Entity Scott Natzke","Buffalo Grove Jewelry & Loan Inc",1.55
+"Scott Natzke","Tax - Entity Scott Natzke","Consolidated Display Co Inc:Consolidated Display Co Inc",0.78
+"Scott Natzke","Tax - Entity Scott Natzke","Cycle Locators Inc",5.8
+"Scott Natzke","Tax - Entity Scott Natzke","Elk Grove Jwlr &Loan II Inc",1.35
+"Scott Natzke","Tax - Entity Scott Natzke","F&K Properties LLC",1.12
+"Scott Natzke","Tax - Entity Scott Natzke","Fortitude Marketing & Sales LLC:Fortitude Marketing & Sales LLC",0.08
+"Scott Natzke","Tax - Entity Scott Natzke","Haas Automotive Inc.",0.67
+"Scott Natzke","Tax - Entity Scott Natzke","KC Precious Metals",1.5
+"Scott Natzke","Tax - Entity Scott Natzke","Lobo Pallet Service Inc",1.28
+"Scott Natzke","Tax - Entity Scott Natzke","Lux Beauty Holdings",0.3
+"Scott Natzke","Tax - Entity Scott Natzke","Mark A Byrd PC",0.58
+"Scott Natzke","Tax - Entity Scott Natzke","New Wave HVAC",0.2
+"Scott Natzke","Tax - Entity Scott Natzke","Northern Door",4.17
+"Scott Natzke","Tax - Entity Scott Natzke","Rizzo Young Marketing LLC",2.6
+"Scott Natzke","Tax - Entity Scott Natzke","Rodriguez Rims & Tires Inc",0.1
+"Scott Natzke","Tax - Entity Scott Natzke","Specials on Lake LTD",0.17
+"Scott Natzke","Tax - Entity Scott Natzke","Thai Garden Inc",3.39
+"Scott Natzke","Tax - Entity Scott Natzke","Vital IT Systems LLC",1.16
+"Scott Natzke","Tax - Entity Scott Natzke","We Wash Holdings LLC:We Wash Holdings LLC",0.6
+"Scott Natzke","Tax - Individual Scott Natzke","Appleland Construction, Inc.",0.27
+"Scott Natzke","Tax - Individual Scott Natzke","Mike's Auto Clinic, Inc.",2.92
+"Scott Natzke","Tax - Individual Scott Natzke","z Angiulo, Alicia",0.72
+"Scott Natzke","Tax - Individual Scott Natzke","z Anguilo, Sofia",0.2
+"Scott Natzke","Tax - Individual Scott Natzke","z Charewicz, Amy",0.96
+"Scott Natzke","Tax - Individual Scott Natzke","z Charewicz, David",0.66
+"Scott Natzke","Tax - Individual Scott Natzke","z Decarlo, Christopher & Tiffany",2.14
+"Scott Natzke","Tax - Individual Scott Natzke","z DiMaso, Jessie Living Tr",0.85
+"Scott Natzke","Tax - Individual Scott Natzke","z Dittmer, Gael",0.67
+"Scott Natzke","Tax - Individual Scott Natzke","z Dittmer, Mildred",0.37
+"Scott Natzke","Tax - Individual Scott Natzke","z Firebaugh, Jonathan",1.92
+"Scott Natzke","Tax - Individual Scott Natzke","z Galanti, Philip & Nancy",1.3
+"Scott Natzke","Tax - Individual Scott Natzke","z Grzybek, Robert & Susann",0.45
+"Scott Natzke","Tax - Individual Scott Natzke","z Hoberstorfer, Theodore",0.42
+"Scott Natzke","Tax - Individual Scott Natzke","z Julitz Moger, Susan",0.15
+"Scott Natzke","Tax - Individual Scott Natzke","z Lewallen, Lisa",0.8
+"Scott Natzke","Tax - Individual Scott Natzke","z Lindholm, Kendra",0.87
+"Scott Natzke","Tax - Individual Scott Natzke","z Lindstrom, Aaron & Ann",1.72
+"Scott Natzke","Tax - Individual Scott Natzke","z Lusader, Carter & Michelle",0.15
+"Scott Natzke","Tax - Individual Scott Natzke","z Lutfallah, John",0.87
+"Scott Natzke","Tax - Individual Scott Natzke","z Messinger, Charles",0.18
+"Scott Natzke","Tax - Individual Scott Natzke","z Messinger, Jake",0.28
+"Scott Natzke","Tax - Individual Scott Natzke","z Messinger, Richard & Jamie",4.26
+"Scott Natzke","Tax - Individual Scott Natzke","z Naughton, Claire",0.25
+"Scott Natzke","Tax - Individual Scott Natzke","z Partipilo, Michael",1.37
+"Scott Natzke","Tax - Individual Scott Natzke","z Povidas, Allan & Marisa:z Povidas, Allan & Marisa",1.13
+"Scott Natzke","Tax - Individual Scott Natzke","z Povidas, Allan & Marisa:z Povidas, Roxayn",0.32
+"Scott Natzke","Tax - Individual Scott Natzke","z Schaefer, Estate of Edward",0.95
+"Scott Natzke","Tax - Individual Scott Natzke","z Schielke, Randolph & Colleen",0.4
+"Scott Natzke","Tax - Individual Scott Natzke","z Scinteie, John & Cristina Ionita:z Scinteie, Patrick",0.25
+"Scott Natzke","Tax - Individual Scott Natzke","z Sharpe, Michael & Sherry",1.01
+"Scott Natzke","Tax - Individual Scott Natzke","z Shindelbower, Daniel",0.82
+"Scott Natzke","Tax - Individual Scott Natzke","z Spendley, James & Samuel Brasseur",1.4
+"Scott Natzke","Tax - Individual Scott Natzke","z Wenc, Marek & Anna",0.18
+"Scott Natzke","Tax - Individual Scott Natzke","z Woods, Ricky & Connie",1.11
+"Scott Natzke","Tax - Individual Scott Natzke","A Shear Delight",0.32
+"Scott Natzke","Tax - Individual Scott Natzke","BGR8 Leadership LLC",2.11
+"Scott Natzke","Tax - Individual Scott Natzke","Cycle Locators Inc",0.98
+"Scott Natzke","Tax - Individual Scott Natzke","Elk Grove Jwlr & Loan Inc",1.02
+"Scott Natzke","Tax - Individual Scott Natzke","Elk Grove Jwlr &Loan II Inc",1.18
+"Scott Natzke","Tax - Individual Scott Natzke","Fortitude Marketing & Sales LLC:Fortitude Marketing & Sales LLC",0.4
+"Scott Natzke","Tax - Individual Scott Natzke","Lobo Pallet Service Inc",0.32
+"Scott Natzke","Tax - Individual Scott Natzke","Mark A Byrd PC",0.5
+"Scott Natzke","Tax - Individual Scott Natzke","Rizzo Young Marketing LLC",1.52
+"Scott Natzke","Tax - Individual Scott Natzke","Robert's Drapery Center",0.45
+"Scott Natzke","Tax - Individual Scott Natzke","Robinette Plumbing",1.71
+"Scott Natzke","Tax - Individual Scott Natzke","Simply Portraits Chicago",1.55
+"Scott Natzke","Tax - Individual Scott Natzke","Sketech Inc",1.25
+"Scott Natzke","Tax - Individual Scott Natzke","Thai Garden Inc",0.8
+"Scott Natzke","Tax - Individual Scott Natzke","Vital IT Systems LLC",0.9
+"Scott Natzke","Tax - Individual Scott Natzke","We Wash Holdings LLC:We Wash Holdings LLC",0.22
+"Scott Natzke","Tax - Individual Scott Natzke","Weinberg Investments LLC",1.03
+"Tom Gosche","MKT - Networking Tom Gosche","GLM Admin Time",52
+"Tom Gosche","MKT - Prospecting Tom Gosche","GLM Admin Time",64
+"Tom Gosche","MKT - Sales Appointment Tom Gosche","GLM Admin Time",20
+"Tom Gosche","Paid Time Off Tom Gosche","GLM Admin Time",32
+"Tom Klimczak","Admin Time - Unbilled Tom Klimczak","GLM Admin Time",40.93
+"Tom Klimczak","Admin Time - Unbilled Tom Klimczak","Kimmer's Ice Cream",9.04
+"Tom Klimczak","Client Processing Tom Klimczak","Aerapy:Aerapy LLC",1
+"Tom Klimczak","Client Processing Tom Klimczak","Cole Ingles USA LLC",0.75
+"Tom Klimczak","Client Processing Tom Klimczak","Evanston Organics",0.47
+"Tom Klimczak","Client Processing Tom Klimczak","Excel Market Solutions LLC",2.67
+"Tom Klimczak","Client Processing Tom Klimczak","GLM Admin Time",2.94
+"Tom Klimczak","Client Processing Tom Klimczak","Grove Burritt LLC",0.37
+"Tom Klimczak","Client Processing Tom Klimczak","Kimmer's Ice Cream",7.13
+"Tom Klimczak","Client Processing Tom Klimczak","L'Mega LLC",2.1
+"Tom Klimczak","Client Processing Tom Klimczak","Rubino Engineering",5.32
+"Tom Klimczak","Client Projects Tom Klimczak","Aerapy:Aerapy LLC",1
+"Tom Klimczak","Client Projects Tom Klimczak","GLM Admin Time",3.25
+"Tom Klimczak","Client Projects Tom Klimczak","HHM Jewelers",4.5
+"Tom Klimczak","Client Projects Tom Klimczak","Kimmer's Ice Cream",10.77
+"Tom Klimczak","Payroll Taxes Tom Klimczak","Aerapy:Aerapy LLC",2.27
+"Tom Klimczak","Tax - Entity Tom Klimczak","Timoca, Inc",1.35
+"Tom Klimczak","Tax - Entity Tom Klimczak","z Koza, Mark:Mark Koza Landscapes Inc",6.12
+"Tom Klimczak","Tax - Entity Tom Klimczak","z Street, Tamara",7.5
+"Tom Klimczak","Tax - Entity Tom Klimczak","15 N State LLC",2.23
+"Tom Klimczak","Tax - Entity Tom Klimczak","ABB Enterprises",1.1
+"Tom Klimczak","Tax - Entity Tom Klimczak","Aerapy:Aerapy LLC",0.28
+"Tom Klimczak","Tax - Entity Tom Klimczak","Cole Ingles USA LLC",0.27
+"Tom Klimczak","Tax - Entity Tom Klimczak","Daves Web & Tech Support",1.43
+"Tom Klimczak","Tax - Entity Tom Klimczak","Elgin Crystal BNB LLC",2.85
+"Tom Klimczak","Tax - Entity Tom Klimczak","Evanston Organics",0.92
+"Tom Klimczak","Tax - Entity Tom Klimczak","Excel Market Solutions LLC",4.72
+"Tom Klimczak","Tax - Entity Tom Klimczak","GLM Admin Time",0.5
+"Tom Klimczak","Tax - Entity Tom Klimczak","Grove Burritt LLC",3.18
+"Tom Klimczak","Tax - Entity Tom Klimczak","HHM Jewelers",4.07
+"Tom Klimczak","Tax - Entity Tom Klimczak","Izaak Walton League of America",2.63
+"Tom Klimczak","Tax - Entity Tom Klimczak","Kimmer's Ice Cream",1.33
+"Tom Klimczak","Tax - Entity Tom Klimczak","L'Mega LLC",0.68
+"Tom Klimczak","Tax - Entity Tom Klimczak","PK Supplies",6.02
+"Tom Klimczak","Tax - Entity Tom Klimczak","Prairieville Advisors LLC",1.57
+"Tom Klimczak","Tax - Entity Tom Klimczak","Rubino Engineering",3.6
+"Tom Klimczak","Tax - Entity Tom Klimczak","TAJ Digital",0.25
+"Tom Klimczak","Tax - Individual Tom Klimczak","Dapper Destinations Travel, LLC",1.48
+"Tom Klimczak","Tax - Individual Tom Klimczak","z Bailey, Dennis & Ilona",1.98
+"Tom Klimczak","Tax - Individual Tom Klimczak","z Banna, Daniel & Anna:z Banna, Daniel & Anna",0.9
+"Tom Klimczak","Tax - Individual Tom Klimczak","z Warzecha, Francis",2.37
+"Tom Klimczak","Tax - Individual Tom Klimczak","Aerapy:Aerapy LLC",1.92
+"Tom Klimczak","Tax - Individual Tom Klimczak","CMR Freight",1.55
+"Tom Klimczak","Tax - Individual Tom Klimczak","Cruises International Inc",6.92
+"Tom Klimczak","Tax - Individual Tom Klimczak","GLM Admin Time",9.85
+"Tom Klimczak","Tax - Individual Tom Klimczak","HHM Jewelers",3.37
+"Tom Klimczak","Tax - Individual Tom Klimczak","Journey Mindfully LLC",5.17
+"Tom Klimczak","Tax - Individual Tom Klimczak","Kimmer's Ice Cream",7.78
+"Tom Klimczak","Tax - Individual Tom Klimczak","Payroll Solutions",0.37
+"Tom Klimczak","Tax - Individual Tom Klimczak","Rubino Engineering",3.47
